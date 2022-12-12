@@ -3,9 +3,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#607](https://github.com/symfony/ux/issues/607) in [symfony/ux](https://github.com/symfony/ux)
-2. 🗣 Commented on [#715](https://github.com/moneyphp/money/issues/715) in [moneyphp/money](https://github.com/moneyphp/money)
-3. ❗️ Opened issue [#5473](https://github.com/EasyCorp/EasyAdminBundle/issues/5473) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
+1. 🗣 Commented on [#607](https://github.com/symfony/ux/issues/607) in [symfony/ux](https://github.com/symfony/ux)
+2. ❗️ Opened issue [#607](https://github.com/symfony/ux/issues/607) in [symfony/ux](https://github.com/symfony/ux)
+3. 🗣 Commented on [#715](https://github.com/moneyphp/money/issues/715) in [moneyphp/money](https://github.com/moneyphp/money)
 <!--END_SECTION:activity-->
 
 <!--
