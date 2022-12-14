@@ -3,9 +3,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/evertharmeling/ux/pull/1) in [evertharmeling/ux](https://github.com/evertharmeling/ux)
-2. 🗣 Commented on [#607](https://github.com/symfony/ux/issues/607) in [symfony/ux](https://github.com/symfony/ux)
-3. ❗️ Opened issue [#607](https://github.com/symfony/ux/issues/607) in [symfony/ux](https://github.com/symfony/ux)
+1. ❌ Closed PR [#1](https://github.com/evertharmeling/ux/pull/1) in [evertharmeling/ux](https://github.com/evertharmeling/ux)
+2. 🗣 Commented on [#1](https://github.com/evertharmeling/ux/issues/1) in [evertharmeling/ux](https://github.com/evertharmeling/ux)
+3. 💪 Opened PR [#610](https://github.com/symfony/ux/pull/610) in [symfony/ux](https://github.com/symfony/ux)
 <!--END_SECTION:activity-->
 
 <!--
