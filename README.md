@@ -12,6 +12,16 @@ I'm Evert and currently hold a position at [yoursportpro.nl](https://yoursportpr
 1. 🗣 Commented on [#610](https://github.com/symfony/ux/issues/610) in [symfony/ux](https://github.com/symfony/ux)
 2. ❌ Closed PR [#1](https://github.com/evertharmeling/ux/pull/1) in [evertharmeling/ux](https://github.com/evertharmeling/ux)
 3. 🗣 Commented on [#1](https://github.com/evertharmeling/ux/issues/1) in [evertharmeling/ux](https://github.com/evertharmeling/ux)
+4. 💪 Opened PR [#610](https://github.com/symfony/ux/pull/610) in [symfony/ux](https://github.com/symfony/ux)
+5. 💪 Opened PR [#1](https://github.com/evertharmeling/ux/pull/1) in [evertharmeling/ux](https://github.com/evertharmeling/ux)
+6. 🗣 Commented on [#607](https://github.com/symfony/ux/issues/607) in [symfony/ux](https://github.com/symfony/ux)
+7. ❗️ Opened issue [#607](https://github.com/symfony/ux/issues/607) in [symfony/ux](https://github.com/symfony/ux)
+8. 🗣 Commented on [#715](https://github.com/moneyphp/money/issues/715) in [moneyphp/money](https://github.com/moneyphp/money)
+9. ❗️ Opened issue [#5473](https://github.com/EasyCorp/EasyAdminBundle/issues/5473) in [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle)
+<!--END_SECTION:activity-->
+1. 🗣 Commented on [#610](https://github.com/symfony/ux/issues/610) in [symfony/ux](https://github.com/symfony/ux)
+2. ❌ Closed PR [#1](https://github.com/evertharmeling/ux/pull/1) in [evertharmeling/ux](https://github.com/evertharmeling/ux)
+3. 🗣 Commented on [#1](https://github.com/evertharmeling/ux/issues/1) in [evertharmeling/ux](https://github.com/evertharmeling/ux)
 
 <!--
 **evertharmeling/evertharmeling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
