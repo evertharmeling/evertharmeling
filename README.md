@@ -1,4 +1,6 @@
-### :wave: Hi there
+### :wave: Hi there!
+
+I'm Evert and currently hold a position at yoursportpro.nl. In my spare time I enjoy my beautiful family and brew beer on my self built computerized brewing installation 🍺
 
 ### :zap: Recent Activity
 
