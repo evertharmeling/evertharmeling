@@ -12,7 +12,6 @@ I'm Evert and currently hold a position at [yoursportpro.nl](https://yoursportpr
 1. 🗣 Commented on [#610](https://github.com/symfony/ux/issues/610) in [symfony/ux](https://github.com/symfony/ux)
 2. ❌ Closed PR [#1](https://github.com/evertharmeling/ux/pull/1) in [evertharmeling/ux](https://github.com/evertharmeling/ux)
 3. 🗣 Commented on [#1](https://github.com/evertharmeling/ux/issues/1) in [evertharmeling/ux](https://github.com/evertharmeling/ux)
-<!--END_SECTION:activity-->
 
 <!--
 **evertharmeling/evertharmeling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
