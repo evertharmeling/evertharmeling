@@ -1,6 +1,10 @@
 ### :wave: Hi there!
 
-I'm Evert and currently hold a position at yoursportpro.nl. In my spare time I enjoy my beautiful family and brew beer on my self built computerized brewing installation 🍺
+I'm Evert and currently hold a position at [yoursportpro.nl](https://yoursportpro.nl). In my spare time I enjoy my beautiful family and brew beer on my self built computerized brewing installation 🍺
+
+📫 How to reach me:
+
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/evertjes) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/evertharmeling)
 
 ### :zap: Recent Activity
 
