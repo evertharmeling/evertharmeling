@@ -20,7 +20,7 @@ I'm Evert and currently hold a position at [yoursportpro.nl](https://yoursportpr
 9. 🗣 Commented on [#1](https://github.com/evertharmeling/ux/issues/1) in [evertharmeling/ux](https://github.com/evertharmeling/ux)
 <!--END_SECTION:activity-->
 
-<div align="center">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=evertharmeling&show_icons=true&theme=vue&include_all_commits=true" alt="GH stats of Evert Harmeling" />
 </div>
 
