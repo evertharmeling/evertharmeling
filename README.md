@@ -9,15 +9,15 @@ I'm Evert and currently hold a position at [yoursportpro.nl](https://yoursportpr
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17600](https://github.com/symfony/symfony-docs/pull/17600) in [symfony/symfony-docs](https://github.com/symfony/symfony-docs)
-2. 🗣 Commented on [#610](https://github.com/symfony/ux/issues/610) in [symfony/ux](https://github.com/symfony/ux)
+1. 💪 Opened PR [#1190](https://github.com/symfony/webpack-encore/pull/1190) in [symfony/webpack-encore](https://github.com/symfony/webpack-encore)
+2. 💪 Opened PR [#17600](https://github.com/symfony/symfony-docs/pull/17600) in [symfony/symfony-docs](https://github.com/symfony/symfony-docs)
 3. 🗣 Commented on [#610](https://github.com/symfony/ux/issues/610) in [symfony/ux](https://github.com/symfony/ux)
 4. 🗣 Commented on [#610](https://github.com/symfony/ux/issues/610) in [symfony/ux](https://github.com/symfony/ux)
 5. 🗣 Commented on [#610](https://github.com/symfony/ux/issues/610) in [symfony/ux](https://github.com/symfony/ux)
 6. 🗣 Commented on [#610](https://github.com/symfony/ux/issues/610) in [symfony/ux](https://github.com/symfony/ux)
 7. 🗣 Commented on [#610](https://github.com/symfony/ux/issues/610) in [symfony/ux](https://github.com/symfony/ux)
-8. ❌ Closed PR [#1](https://github.com/evertharmeling/ux/pull/1) in [evertharmeling/ux](https://github.com/evertharmeling/ux)
-9. 🗣 Commented on [#1](https://github.com/evertharmeling/ux/issues/1) in [evertharmeling/ux](https://github.com/evertharmeling/ux)
+8. 🗣 Commented on [#610](https://github.com/symfony/ux/issues/610) in [symfony/ux](https://github.com/symfony/ux)
+9. ❌ Closed PR [#1](https://github.com/evertharmeling/ux/pull/1) in [evertharmeling/ux](https://github.com/evertharmeling/ux)
 <!--END_SECTION:activity-->
 
 <div align="right">
