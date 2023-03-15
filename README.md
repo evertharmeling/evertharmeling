@@ -6,6 +6,8 @@ I'm Evert and currently hold a position at [yoursportpro.nl](https://yoursportpr
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/evertjes) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/evertharmeling)
 
+<img src="https://github-readme-stats.vercel.app/api?username=evertharmeling&show_icons=true&theme=vue&include_all_commits=true" alt="GH stats of Evert Harmeling"/>
+
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
@@ -19,10 +21,6 @@ I'm Evert and currently hold a position at [yoursportpro.nl](https://yoursportpr
 8. 🗣 Commented on [#610](https://github.com/symfony/ux/issues/610) in [symfony/ux](https://github.com/symfony/ux)
 9. 🗣 Commented on [#610](https://github.com/symfony/ux/issues/610) in [symfony/ux](https://github.com/symfony/ux)
 <!--END_SECTION:activity-->
-
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=evertharmeling&show_icons=true&theme=vue&include_all_commits=true" alt="GH stats of Evert Harmeling" />
-</div>
 
 <!--
 **evertharmeling/evertharmeling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
