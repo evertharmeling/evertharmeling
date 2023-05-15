@@ -11,11 +11,11 @@ I'm Evert and currently hold a position at [yoursportpro.nl](https://yoursportpr
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50016](https://github.com/symfony/symfony/issues/50016) in [symfony/symfony](https://github.com/symfony/symfony)
-2. 💪 Opened PR [#83](https://github.com/nepada/phone-number-doctrine/pull/83) in [nepada/phone-number-doctrine](https://github.com/nepada/phone-number-doctrine)
-3. 💪 Opened PR [#249](https://github.com/maennchen/ZipStream-PHP/pull/249) in [maennchen/ZipStream-PHP](https://github.com/maennchen/ZipStream-PHP)
-4. 💪 Opened PR [#1190](https://github.com/symfony/webpack-encore/pull/1190) in [symfony/webpack-encore](https://github.com/symfony/webpack-encore)
-5. 🗣 Commented on [#610](https://github.com/symfony/ux/issues/610) in [symfony/ux](https://github.com/symfony/ux)
+1. 💪 Opened PR [#1908](https://github.com/FriendsOfSymfony/FOSElasticaBundle/pull/1908) in [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle)
+2. 🗣 Commented on [#50016](https://github.com/symfony/symfony/issues/50016) in [symfony/symfony](https://github.com/symfony/symfony)
+3. 💪 Opened PR [#83](https://github.com/nepada/phone-number-doctrine/pull/83) in [nepada/phone-number-doctrine](https://github.com/nepada/phone-number-doctrine)
+4. 💪 Opened PR [#249](https://github.com/maennchen/ZipStream-PHP/pull/249) in [maennchen/ZipStream-PHP](https://github.com/maennchen/ZipStream-PHP)
+5. 💪 Opened PR [#1190](https://github.com/symfony/webpack-encore/pull/1190) in [symfony/webpack-encore](https://github.com/symfony/webpack-encore)
 6. 🗣 Commented on [#610](https://github.com/symfony/ux/issues/610) in [symfony/ux](https://github.com/symfony/ux)
 7. 🗣 Commented on [#610](https://github.com/symfony/ux/issues/610) in [symfony/ux](https://github.com/symfony/ux)
 8. 🗣 Commented on [#610](https://github.com/symfony/ux/issues/610) in [symfony/ux](https://github.com/symfony/ux)
