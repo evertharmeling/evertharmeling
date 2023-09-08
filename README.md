@@ -8,7 +8,7 @@ I'm Evert and currently hold a position at [yoursportpro.nl](https://yoursportpr
 
 <span>
   <a style="all: unset;" href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=evertharmeling&show_icons=true&theme=vue&include_all_commits=true" alt="GH activity stats of Evert Harmeling" />
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=evertharmeling&show_icons=true&theme=vue&include_all_commits=true&theme=github_dark" alt="GH activity stats of Evert Harmeling" />
   </a>
 </span>
 
