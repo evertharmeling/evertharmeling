@@ -6,7 +6,8 @@ I'm Evert and currently hold a position at [yoursportpro.nl](https://yoursportpr
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/evertjes) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/evertharmeling)
 
-<img src="https://github-readme-stats.vercel.app/api?username=evertharmeling&show_icons=true&theme=vue&include_all_commits=true" alt="GH stats of Evert Harmeling"/>
+<img src="https://github-readme-stats.vercel.app/api?username=evertharmeling&show_icons=true&theme=vue&include_all_commits=true" alt="GH activity stats of Evert Harmeling"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertharmeling&theme=github_dark" alt="GH language stats of Evert Harmeling"/>
 
 ### :zap: Recent Activity
 
