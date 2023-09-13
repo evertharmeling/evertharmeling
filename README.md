@@ -2,10 +2,6 @@
 
 I'm Evert and currently hold a position at [yoursportpro.nl](https://yoursportpro.nl). In my spare time I enjoy my beautiful family and brew beer on my self built computerized brewing installation 🍺
 
-📫 How to reach me:
-
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/evertjes) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/evertharmeling)
-
 <span style="margin-top: 6px;">
   <a style="all: unset;" href="https://github.com/anuraghazra/github-readme-stats">
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=evertharmeling&show_icons=true&include_all_commits=true&theme=transparent&title_color=adbbc9&text_color=adbbc9&icon_color=619adc" alt="GH activity stats of Evert Harmeling" />
@@ -46,3 +42,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📫 How to reach me:
+
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/evertjes) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/evertharmeling)
