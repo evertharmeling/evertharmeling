@@ -19,14 +19,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1194](https://github.com/symfony/ux/pull/1194) in [symfony/ux](https://github.com/symfony/ux)
-2. 🗣 Commented on [#51771](https://github.com/symfony/symfony/pull/51771#issuecomment-1738799686) in [symfony/symfony](https://github.com/symfony/symfony)
-3. 🗣 Commented on [#74](https://github.com/yooper/php-text-analysis/pull/74#issuecomment-1733144942) in [yooper/php-text-analysis](https://github.com/yooper/php-text-analysis)
-4. 💪 Opened PR [#74](https://github.com/yooper/php-text-analysis/pull/74) in [yooper/php-text-analysis](https://github.com/yooper/php-text-analysis)
-5. 🗣 Commented on [#50805](https://github.com/symfony/symfony/issues/50805#issuecomment-1611348244) in [symfony/symfony](https://github.com/symfony/symfony)
-6. 💪 Opened PR [#50810](https://github.com/symfony/symfony/pull/50810) in [symfony/symfony](https://github.com/symfony/symfony)
-7. 🗣 Commented on [#610](https://github.com/symfony/ux/issues/610) in [symfony/ux](https://github.com/symfony/ux)
-8. 🗣 Commented on [#610](https://github.com/symfony/ux/issues/610) in [symfony/ux](https://github.com/symfony/ux)
+1. ❌ Closed PR [#1194](https://github.com/symfony/ux/pull/1194) in [symfony/ux](https://github.com/symfony/ux)
+2. ❌ Reopened PR [#1194](https://github.com/symfony/ux/pull/1194) in [symfony/ux](https://github.com/symfony/ux)
+3. ❌ Closed PR [#1194](https://github.com/symfony/ux/pull/1194) in [symfony/ux](https://github.com/symfony/ux)
+4. 🗣 Commented on [#1194](https://github.com/symfony/ux/pull/1194#issuecomment-1764426638) in [symfony/ux](https://github.com/symfony/ux)
+5. 💪 Opened PR [#1194](https://github.com/symfony/ux/pull/1194) in [symfony/ux](https://github.com/symfony/ux)
+6. 🗣 Commented on [#51771](https://github.com/symfony/symfony/pull/51771#issuecomment-1738799686) in [symfony/symfony](https://github.com/symfony/symfony)
+7. 🗣 Commented on [#74](https://github.com/yooper/php-text-analysis/pull/74#issuecomment-1733144942) in [yooper/php-text-analysis](https://github.com/yooper/php-text-analysis)
+8. 💪 Opened PR [#74](https://github.com/yooper/php-text-analysis/pull/74) in [yooper/php-text-analysis](https://github.com/yooper/php-text-analysis)
 9. 🗣 Commented on [#610](https://github.com/symfony/ux/issues/610) in [symfony/ux](https://github.com/symfony/ux)
 <!--END_SECTION:activity-->
 
