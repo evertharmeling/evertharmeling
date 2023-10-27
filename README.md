@@ -1,8 +1,8 @@
 ### :wave: Hi there!
 
-<a href="https://yoursportpro.nl/"><img src="https://yoursportpro.nl/assets/images/logo-bimi.svg" height="100" alt="Your Sport Pro logo"/></a> <span>&nbsp;&nbsp;I'm Evert and currently hold a position at [yoursportpro.nl](https://yoursportpro.nl).</span>
+<span>&nbsp;&nbsp;I'm Evert and currently hold a position at [yoursportpro.nl](https://yoursportpro.nl).</span>
 
-<a href="https://untappd.com/desaeck"><img src="https://assets.untappd.com/site/brewery_logos/brewery-196326_e91b6.jpeg" height="100" alt="Biertje van de Saeck logo"/></a> <span>&nbsp;&nbsp;In my spare time I enjoy my beautiful family and brew beer on my self built computerized brewing installation 🍺.</span>
+<span>&nbsp;&nbsp;In my spare time I enjoy my beautiful family, building my own shed / man cave and [brew beer](https://untappd.com/desaeck) on my self built computerized brewing installation 🍺.</span>
 
 <span style="margin-top: 6px;">
   <a style="all: unset;" href="https://github.com/anuraghazra/github-readme-stats">
