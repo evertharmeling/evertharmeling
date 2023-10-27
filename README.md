@@ -1,8 +1,8 @@
 ### :wave: Hi there!
 
-<span>&nbsp;&nbsp;I'm Evert and currently hold a position at [yoursportpro.nl](https://yoursportpro.nl).</span>
+<span>I'm Evert and currently hold a position at [yoursportpro.nl](https://yoursportpro.nl).</span>
 
-<span>&nbsp;&nbsp;In my spare time I enjoy my beautiful family, building my own shed / man cave and [brew beer](https://untappd.com/desaeck) on my self built computerized brewing installation 🍺.</span>
+<span>In my spare time I enjoy my beautiful family, building my own shed / man cave and [brew beer](https://untappd.com/desaeck) on my self built computerized brewing installation 🍺.</span>
 
 <span style="margin-top: 6px;">
   <a style="all: unset;" href="https://github.com/anuraghazra/github-readme-stats">
