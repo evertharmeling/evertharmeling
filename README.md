@@ -19,15 +19,15 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#52513](https://github.com/symfony/symfony/issues/52513) in [symfony/symfony](https://github.com/symfony/symfony)
-2. 🗣 Commented on [#21](https://github.com/SymfonyCasts/sass-bundle/pull/21#issuecomment-1772803384) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
-3. 💪 Opened PR [#21](https://github.com/SymfonyCasts/sass-bundle/pull/21) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
-4. ❌ Closed PR [#1194](https://github.com/symfony/ux/pull/1194) in [symfony/ux](https://github.com/symfony/ux)
-5. ❌ Reopened PR [#1194](https://github.com/symfony/ux/pull/1194) in [symfony/ux](https://github.com/symfony/ux)
-6. ❌ Closed PR [#1194](https://github.com/symfony/ux/pull/1194) in [symfony/ux](https://github.com/symfony/ux)
-7. 🗣 Commented on [#1194](https://github.com/symfony/ux/pull/1194#issuecomment-1764426638) in [symfony/ux](https://github.com/symfony/ux)
-8. 💪 Opened PR [#1194](https://github.com/symfony/ux/pull/1194) in [symfony/ux](https://github.com/symfony/ux)
-9. 🗣 Commented on [#51771](https://github.com/symfony/symfony/pull/51771#issuecomment-1738799686) in [symfony/symfony](https://github.com/symfony/symfony)
+1. 🗣 Commented on [#30](https://github.com/SymfonyCasts/sass-bundle/pull/30#issuecomment-1804100290) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
+2. 🗣 Commented on [#30](https://github.com/SymfonyCasts/sass-bundle/pull/30#issuecomment-1804095023) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
+3. 💪 Opened PR [#30](https://github.com/SymfonyCasts/sass-bundle/pull/30) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
+4. ❗ Opened issue [#52513](https://github.com/symfony/symfony/issues/52513) in [symfony/symfony](https://github.com/symfony/symfony)
+5. 🗣 Commented on [#21](https://github.com/SymfonyCasts/sass-bundle/pull/21#issuecomment-1772803384) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
+6. 💪 Opened PR [#21](https://github.com/SymfonyCasts/sass-bundle/pull/21) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
+7. ❌ Closed PR [#1194](https://github.com/symfony/ux/pull/1194) in [symfony/ux](https://github.com/symfony/ux)
+8. ❌ Reopened PR [#1194](https://github.com/symfony/ux/pull/1194) in [symfony/ux](https://github.com/symfony/ux)
+9. ❌ Closed PR [#1194](https://github.com/symfony/ux/pull/1194) in [symfony/ux](https://github.com/symfony/ux)
 <!--END_SECTION:activity-->
 
 <!--
