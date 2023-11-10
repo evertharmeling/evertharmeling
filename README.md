@@ -19,15 +19,15 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#49](https://github.com/Dukecity/DoctrineExtensions/pull/49) in [Dukecity/DoctrineExtensions](https://github.com/Dukecity/DoctrineExtensions)
-2. ❗ Opened issue [#52533](https://github.com/symfony/symfony/issues/52533) in [symfony/symfony](https://github.com/symfony/symfony)
-3. 🗣 Commented on [#52521](https://github.com/symfony/symfony/pull/52521#issuecomment-1804478741) in [symfony/symfony](https://github.com/symfony/symfony)
-4. 🗣 Commented on [#30](https://github.com/SymfonyCasts/sass-bundle/pull/30#issuecomment-1804100290) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
-5. 🗣 Commented on [#30](https://github.com/SymfonyCasts/sass-bundle/pull/30#issuecomment-1804095023) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
-6. 💪 Opened PR [#30](https://github.com/SymfonyCasts/sass-bundle/pull/30) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
-7. ❗ Opened issue [#52513](https://github.com/symfony/symfony/issues/52513) in [symfony/symfony](https://github.com/symfony/symfony)
-8. 🗣 Commented on [#21](https://github.com/SymfonyCasts/sass-bundle/pull/21#issuecomment-1772803384) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
-9. 💪 Opened PR [#21](https://github.com/SymfonyCasts/sass-bundle/pull/21) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
+1. 🗣 Commented on [#52542](https://github.com/symfony/symfony/issues/52542#issuecomment-1805972976) in [symfony/symfony](https://github.com/symfony/symfony)
+2. 💪 Opened PR [#49](https://github.com/Dukecity/DoctrineExtensions/pull/49) in [Dukecity/DoctrineExtensions](https://github.com/Dukecity/DoctrineExtensions)
+3. ❗ Opened issue [#52533](https://github.com/symfony/symfony/issues/52533) in [symfony/symfony](https://github.com/symfony/symfony)
+4. 🗣 Commented on [#52521](https://github.com/symfony/symfony/pull/52521#issuecomment-1804478741) in [symfony/symfony](https://github.com/symfony/symfony)
+5. 🗣 Commented on [#30](https://github.com/SymfonyCasts/sass-bundle/pull/30#issuecomment-1804100290) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
+6. 🗣 Commented on [#30](https://github.com/SymfonyCasts/sass-bundle/pull/30#issuecomment-1804095023) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
+7. 💪 Opened PR [#30](https://github.com/SymfonyCasts/sass-bundle/pull/30) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
+8. ❗ Opened issue [#52513](https://github.com/symfony/symfony/issues/52513) in [symfony/symfony](https://github.com/symfony/symfony)
+9. 🗣 Commented on [#21](https://github.com/SymfonyCasts/sass-bundle/pull/21#issuecomment-1772803384) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
 <!--END_SECTION:activity-->
 
 <!--
