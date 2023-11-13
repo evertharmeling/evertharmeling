@@ -19,15 +19,15 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/SymfonyCasts/sass-bundle/pull/30#issuecomment-1808179374) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
-2. 🗣 Commented on [#30](https://github.com/SymfonyCasts/sass-bundle/pull/30#issuecomment-1808147509) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
-3. 🗣 Commented on [#30](https://github.com/SymfonyCasts/sass-bundle/pull/30#issuecomment-1808122997) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
-4. 🗣 Commented on [#52542](https://github.com/symfony/symfony/issues/52542#issuecomment-1806104370) in [symfony/symfony](https://github.com/symfony/symfony)
-5. 💪 Opened PR [#777](https://github.com/KnpLabs/KnpPaginatorBundle/pull/777) in [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle)
-6. 💪 Opened PR [#776](https://github.com/KnpLabs/KnpPaginatorBundle/pull/776) in [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle)
-7. 🗣 Commented on [#52542](https://github.com/symfony/symfony/issues/52542#issuecomment-1805972976) in [symfony/symfony](https://github.com/symfony/symfony)
-8. 💪 Opened PR [#49](https://github.com/Dukecity/DoctrineExtensions/pull/49) in [Dukecity/DoctrineExtensions](https://github.com/Dukecity/DoctrineExtensions)
-9. ❗ Opened issue [#52533](https://github.com/symfony/symfony/issues/52533) in [symfony/symfony](https://github.com/symfony/symfony)
+1. 🗣 Commented on [#52533](https://github.com/symfony/symfony/issues/52533#issuecomment-1808248659) in [symfony/symfony](https://github.com/symfony/symfony)
+2. ❗ Opened issue [#20124](https://github.com/highcharts/highcharts/issues/20124) in [highcharts/highcharts](https://github.com/highcharts/highcharts)
+3. 🗣 Commented on [#30](https://github.com/SymfonyCasts/sass-bundle/pull/30#issuecomment-1808179374) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
+4. 🗣 Commented on [#30](https://github.com/SymfonyCasts/sass-bundle/pull/30#issuecomment-1808147509) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
+5. 🗣 Commented on [#30](https://github.com/SymfonyCasts/sass-bundle/pull/30#issuecomment-1808122997) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
+6. 🗣 Commented on [#52542](https://github.com/symfony/symfony/issues/52542#issuecomment-1806104370) in [symfony/symfony](https://github.com/symfony/symfony)
+7. 💪 Opened PR [#777](https://github.com/KnpLabs/KnpPaginatorBundle/pull/777) in [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle)
+8. 💪 Opened PR [#776](https://github.com/KnpLabs/KnpPaginatorBundle/pull/776) in [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle)
+9. 🗣 Commented on [#52542](https://github.com/symfony/symfony/issues/52542#issuecomment-1805972976) in [symfony/symfony](https://github.com/symfony/symfony)
 <!--END_SECTION:activity-->
 
 <!--
