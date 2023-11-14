@@ -19,15 +19,15 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/SymfonyCasts/sass-bundle/pull/30#issuecomment-1809061017) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
-2. 💪 Opened PR [#33](https://github.com/SymfonyCasts/sass-bundle/pull/33) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
-3. 🗣 Commented on [#52533](https://github.com/symfony/symfony/issues/52533#issuecomment-1808248659) in [symfony/symfony](https://github.com/symfony/symfony)
-4. ❗ Opened issue [#20124](https://github.com/highcharts/highcharts/issues/20124) in [highcharts/highcharts](https://github.com/highcharts/highcharts)
-5. 🗣 Commented on [#30](https://github.com/SymfonyCasts/sass-bundle/pull/30#issuecomment-1808179374) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
-6. 🗣 Commented on [#30](https://github.com/SymfonyCasts/sass-bundle/pull/30#issuecomment-1808147509) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
-7. 🗣 Commented on [#30](https://github.com/SymfonyCasts/sass-bundle/pull/30#issuecomment-1808122997) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
-8. 🗣 Commented on [#52542](https://github.com/symfony/symfony/issues/52542#issuecomment-1806104370) in [symfony/symfony](https://github.com/symfony/symfony)
-9. 💪 Opened PR [#777](https://github.com/KnpLabs/KnpPaginatorBundle/pull/777) in [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle)
+1. 🗣 Commented on [#20124](https://github.com/highcharts/highcharts/issues/20124#issuecomment-1810071157) in [highcharts/highcharts](https://github.com/highcharts/highcharts)
+2. 🗣 Commented on [#30](https://github.com/SymfonyCasts/sass-bundle/pull/30#issuecomment-1809061017) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
+3. 💪 Opened PR [#33](https://github.com/SymfonyCasts/sass-bundle/pull/33) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
+4. 🗣 Commented on [#52533](https://github.com/symfony/symfony/issues/52533#issuecomment-1808248659) in [symfony/symfony](https://github.com/symfony/symfony)
+5. ❗ Opened issue [#20124](https://github.com/highcharts/highcharts/issues/20124) in [highcharts/highcharts](https://github.com/highcharts/highcharts)
+6. 🗣 Commented on [#30](https://github.com/SymfonyCasts/sass-bundle/pull/30#issuecomment-1808179374) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
+7. 🗣 Commented on [#30](https://github.com/SymfonyCasts/sass-bundle/pull/30#issuecomment-1808147509) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
+8. 🗣 Commented on [#30](https://github.com/SymfonyCasts/sass-bundle/pull/30#issuecomment-1808122997) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
+9. 🗣 Commented on [#52542](https://github.com/symfony/symfony/issues/52542#issuecomment-1806104370) in [symfony/symfony](https://github.com/symfony/symfony)
 <!--END_SECTION:activity-->
 
 <!--
