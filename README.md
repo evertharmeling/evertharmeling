@@ -40,6 +40,8 @@
 - [nepada/phone-number-doctrine](https://github.com/nepada/phone-number-doctrine) ([v2.2.0](https://github.com/nepada/phone-number-doctrine/releases/tag/v2.2.0), 1 month ago) - Phone number type for Doctrine.
 
 #### Recent activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 
 
