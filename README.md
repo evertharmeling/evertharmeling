@@ -38,9 +38,10 @@
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.0.0-RC1), 6 days ago) - The Symfony PHP framework
 - [symfony/webpack-encore](https://github.com/symfony/webpack-encore) ([v4.5.0](https://github.com/symfony/webpack-encore/releases/tag/v4.5.0), 1 month ago) - A simple but powerful API for processing &amp; compiling assets built around Webpack
 - [nepada/phone-number-doctrine](https://github.com/nepada/phone-number-doctrine) ([v2.2.0](https://github.com/nepada/phone-number-doctrine/releases/tag/v2.2.0), 1 month ago) - Phone number type for Doctrine.
-- [yooper/php-text-analysis](https://github.com/yooper/php-text-analysis) ([1.9.1](https://github.com/yooper/php-text-analysis/releases/tag/1.9.1), 1 month ago) - PHP Text Analysis is a library for performing Information Retrieval (IR) and Natural Language Processing (NLP) tasks using the PHP language
-- [maennchen/ZipStream-PHP](https://github.com/maennchen/ZipStream-PHP) ([3.1.0](https://github.com/maennchen/ZipStream-PHP/releases/tag/3.1.0), 5 months ago) - :floppy_disk: PHP ZIP Streaming Library
-- [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle) ([v6.3.1](https://github.com/FriendsOfSymfony/FOSElasticaBundle/releases/tag/v6.3.1), 5 months ago) - Elasticsearch PHP integration for your Symfony project using Elastica.
+
+#### Recent activity
+
+
 
 
 
