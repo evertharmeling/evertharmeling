@@ -18,32 +18,29 @@
 
 ### :zap: Recent Activity
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/Dukecity/DoctrineExtensions/pull/49#issuecomment-1819641916) in [Dukecity/DoctrineExtensions](https://github.com/Dukecity/DoctrineExtensions)
-2. 💪 Opened PR [#324](https://github.com/prestaconcept/PrestaSitemapBundle/pull/324) in [prestaconcept/PrestaSitemapBundle](https://github.com/prestaconcept/PrestaSitemapBundle)
-3. 🗣 Commented on [#1930](https://github.com/FriendsOfSymfony/FOSElasticaBundle/pull/1930#issuecomment-1819123224) in [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle)
-4. 💪 Opened PR [#1931](https://github.com/FriendsOfSymfony/FOSElasticaBundle/pull/1931) in [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle)
-5. 🗣 Commented on [#36](https://github.com/SymfonyCasts/sass-bundle/pull/36#issuecomment-1818997352) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
-6. ❗ Opened issue [#52652](https://github.com/symfony/symfony/issues/52652) in [symfony/symfony](https://github.com/symfony/symfony)
-7. 🗣 Commented on [#49](https://github.com/Dukecity/DoctrineExtensions/pull/49#issuecomment-1818721081) in [Dukecity/DoctrineExtensions](https://github.com/Dukecity/DoctrineExtensions)
-8. 💪 Opened PR [#36](https://github.com/SymfonyCasts/sass-bundle/pull/36) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
-9. 🗣 Commented on [#778](https://github.com/KnpLabs/KnpPaginatorBundle/issues/778#issuecomment-1815035900) in [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle)
-<!--END_SECTION:activity-->
 
-<!--
-**evertharmeling/evertharmeling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ![](./assets/pr-open.svg) [Allow Symfony 7, dropped support for 4.4 and bumped minimal version to 5.4](https://github.com/prestaconcept/PrestaSitemapBundle/pull/324) on [prestaconcept/PrestaSitemapBundle](https://github.com/prestaconcept/PrestaSitemapBundle) (1 day ago)
+- ![](./assets/pr-open.svg) [Update CI to test Symfony 7](https://github.com/FriendsOfSymfony/FOSElasticaBundle/pull/1931) on [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle) (1 day ago)
+- ![](./assets/pr-open.svg) [Allow Symfony 7](https://github.com/SymfonyCasts/sass-bundle/pull/36) on [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) (4 days ago)
+- ![](./assets/pr-merged.svg) [Optimized CI workflow and bumped Symfony version to 6.3](https://github.com/KnpLabs/KnpPaginatorBundle/pull/779) on [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) (5 days ago)
+- ![](./assets/pr-merged.svg) [Added config validation](https://github.com/SymfonyCasts/sass-bundle/pull/34) on [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) (6 days ago)
+- ![](./assets/pr-closed.svg) [Deprecated getPublicFilesystemPath in SassPublicPathAssetPathResolver, fixes phpstan suite](https://github.com/SymfonyCasts/sass-bundle/pull/33) on [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) (1 week ago)
+- ![](./assets/pr-merged.svg) [Allow Symfony 7](https://github.com/KnpLabs/KnpPaginatorBundle/pull/777) on [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) (1 week ago)
+- ![](./assets/pr-merged.svg) [Add testing for SF 6.4](https://github.com/KnpLabs/KnpPaginatorBundle/pull/776) on [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) (1 week ago)
+- ![](./assets/pr-merged.svg) [Upgrading doctrine/orm v2 to v3](https://github.com/Dukecity/DoctrineExtensions/pull/49) on [Dukecity/DoctrineExtensions](https://github.com/Dukecity/DoctrineExtensions) (1 week ago)
+- ![](./assets/pr-open.svg) [Add support for named converted output files](https://github.com/SymfonyCasts/sass-bundle/pull/30) on [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) (1 week ago)
+- ![](./assets/pr-merged.svg) [Set a default value for $isDebug in SymfonycastsSassExtension](https://github.com/SymfonyCasts/sass-bundle/pull/21) on [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) (1 month ago)
+- ![](./assets/pr-closed.svg) [[stimulus-bundle] Add support for typescript/react stimulus controllers](https://github.com/symfony/ux/pull/1194) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
+- ![](./assets/pr-merged.svg) [Added support for wamania/php-stemmer ^2 and ^3](https://github.com/yooper/php-text-analysis/pull/74) on [yooper/php-text-analysis](https://github.com/yooper/php-text-analysis) (2 months ago)
+- ![](./assets/pr-merged.svg) [[String] Fix Inflector for &#39;status&#39;](https://github.com/symfony/symfony/pull/50810) on [symfony/symfony](https://github.com/symfony/symfony) (4 months ago)
+- ![](./assets/pr-merged.svg) [Pagerfanta v4.x compatibility](https://github.com/FriendsOfSymfony/FOSElasticaBundle/pull/1908) on [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle) (6 months ago)
+- ![](./assets/pr-merged.svg) [Add support for brick/phonenumber:^0.5.0](https://github.com/nepada/phone-number-doctrine/pull/83) on [nepada/phone-number-doctrine](https://github.com/nepada/phone-number-doctrine) (8 months ago)
+- ![](./assets/pr-merged.svg) [Updated Symfony code example](https://github.com/maennchen/ZipStream-PHP/pull/249) on [maennchen/ZipStream-PHP](https://github.com/maennchen/ZipStream-PHP) (8 months ago)
+- ![](./assets/pr-merged.svg) [Allow eslint-webpack-plugin ^4.0](https://github.com/symfony/webpack-encore/pull/1190) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (8 months ago)
+- ![](./assets/pr-merged.svg) [Replace service name with FQCN class reference](https://github.com/symfony/symfony-docs/pull/17600) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (11 months ago)
+- ![](./assets/pr-open.svg) [[ChartJs] chart.js v4 support](https://github.com/symfony/ux/pull/610) on [symfony/ux](https://github.com/symfony/ux) (11 months ago)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 📫 How to reach me:
 
