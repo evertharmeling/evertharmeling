@@ -6,15 +6,37 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  # build:
+  #   runs-on: ubuntu-latest
+  #   name: Update this repo's README with recent activity
+
+  #   steps:
+  #     - uses: actions/checkout@v2
+  #     - uses: jamesgeorge007/github-activity-readme@master
+  #       env:
+  #         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  #       with:
+  #         COMMIT_MSG: 'On a roll... 🚀🚀🚀'
+  #         MAX_LINES: 10
+  markscribe:
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: actions/checkout@master
+
+      - uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+        with:
+          template: "templates/README.md.tpl"
+          writeTo: "README.md"
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: 'On a roll... 🚀🚀🚀'
-          MAX_LINES: 10
+          commit_message: Update generated README
+          branch: main
+          commit_user_name: readme-scribe 🤖
+          commit_user_email: actions@github.com
+          commit_author: readme-scribe 🤖 <actions@github.com>
