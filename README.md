@@ -40,18 +40,6 @@
 - [nepada/phone-number-doctrine](https://github.com/nepada/phone-number-doctrine) ([v2.2.0](https://github.com/nepada/phone-number-doctrine/releases/tag/v2.2.0), 1 month ago) - Phone number type for Doctrine.
 
 #### Recent activity
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/Dukecity/DoctrineExtensions/pull/49#issuecomment-1819641916) in [Dukecity/DoctrineExtensions](https://github.com/Dukecity/DoctrineExtensions)
-2. 💪 Opened PR [#324](https://github.com/prestaconcept/PrestaSitemapBundle/pull/324) in [prestaconcept/PrestaSitemapBundle](https://github.com/prestaconcept/PrestaSitemapBundle)
-3. 🗣 Commented on [#1930](https://github.com/FriendsOfSymfony/FOSElasticaBundle/pull/1930#issuecomment-1819123224) in [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle)
-4. 💪 Opened PR [#1931](https://github.com/FriendsOfSymfony/FOSElasticaBundle/pull/1931) in [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle)
-5. 🗣 Commented on [#36](https://github.com/SymfonyCasts/sass-bundle/pull/36#issuecomment-1818997352) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
-6. ❗ Opened issue [#52652](https://github.com/symfony/symfony/issues/52652) in [symfony/symfony](https://github.com/symfony/symfony)
-7. 🗣 Commented on [#49](https://github.com/Dukecity/DoctrineExtensions/pull/49#issuecomment-1818721081) in [Dukecity/DoctrineExtensions](https://github.com/Dukecity/DoctrineExtensions)
-8. 💪 Opened PR [#36](https://github.com/SymfonyCasts/sass-bundle/pull/36) in [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle)
-9. 🗣 Commented on [#778](https://github.com/KnpLabs/KnpPaginatorBundle/issues/778#issuecomment-1815035900) in [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle)
-10. 💪 Opened PR [#779](https://github.com/KnpLabs/KnpPaginatorBundle/pull/779) in [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle)
-<!--END_SECTION:activity-->
 
 
 
