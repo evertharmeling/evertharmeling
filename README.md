@@ -41,7 +41,8 @@
 
 #### Recent activity
 
-<!--START_SECTION:activity-->
+
+
 
 📫 How to reach me:
 
