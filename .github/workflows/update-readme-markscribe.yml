@@ -2,7 +2,7 @@ name: Run muesli/readme-scribe
 
 on:
   schedule:
-    - cron: '30 * * * *'
+    - cron: '2 * * * *'
   workflow_dispatch:
 
 jobs:
