@@ -1,4 +1,4 @@
-name: Run jamesgeorge007/github-activity-readme@master
+name: Run jamesgeorge007/github-activity-readme
 
 on:
   schedule:
