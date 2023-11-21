@@ -2,7 +2,7 @@ name: Run jamesgeorge007/github-activity-readme
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '15 * * * *'
 
 jobs:
   github-activity-readme:
