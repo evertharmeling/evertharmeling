@@ -1,18 +1,18 @@
-name: Run jamesgeorge007/github-activity-readme
+# name: Run jamesgeorge007/github-activity-readme
 
-on:
-  schedule:
-    - cron: '1 * * * *'
+# on:
+#    schedule:
+#      - cron: '1 * * * *'
 
-jobs:
-  github-activity-readme:
-    runs-on: ubuntu-latest
+# jobs:
+#   github-activity-readme:
+#     runs-on: ubuntu-latest
 
-    steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: 'On a roll... 🚀🚀🚀'
-          MAX_LINES: 10
+#     steps:
+#       - uses: actions/checkout@v2
+#       - uses: jamesgeorge007/github-activity-readme@master
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#         with:
+#           COMMIT_MSG: 'On a roll... 🚀🚀🚀'
+#           MAX_LINES: 10
