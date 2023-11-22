@@ -39,9 +39,6 @@
 - [symfony/webpack-encore](https://github.com/symfony/webpack-encore) ([v4.5.0](https://github.com/symfony/webpack-encore/releases/tag/v4.5.0), 1 month ago) - A simple but powerful API for processing &amp; compiling assets built around Webpack
 - [nepada/phone-number-doctrine](https://github.com/nepada/phone-number-doctrine) ([v2.2.0](https://github.com/nepada/phone-number-doctrine/releases/tag/v2.2.0), 1 month ago) - Phone number type for Doctrine.
 
-#### Recent activity
-
-
 
 
 📫 How to reach me:
