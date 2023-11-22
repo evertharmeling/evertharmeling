@@ -20,7 +20,7 @@
 
 #### Recent pull requests
 
-- ![](./assets/pr-open.svg) [Allow Symfony 7](https://github.com/briannesbitt/Carbon/pull/2888) on [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) (today)
+- ![](./assets/pr-closed.svg) [Allow Symfony 7](https://github.com/briannesbitt/Carbon/pull/2888) on [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) (today)
 - ![](./assets/pr-open.svg) [Allow Symfony 7, dropped support for 4.4 and bumped minimal version to 5.4](https://github.com/prestaconcept/PrestaSitemapBundle/pull/324) on [prestaconcept/PrestaSitemapBundle](https://github.com/prestaconcept/PrestaSitemapBundle) (2 days ago)
 - ![](./assets/pr-open.svg) [Update CI to test Symfony 7](https://github.com/FriendsOfSymfony/FOSElasticaBundle/pull/1931) on [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle) (2 days ago)
 - ![](./assets/pr-merged.svg) [Allow Symfony 7](https://github.com/SymfonyCasts/sass-bundle/pull/36) on [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) (5 days ago)
