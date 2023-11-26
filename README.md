@@ -33,7 +33,7 @@
 
 #### Recent releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.4.0-RC2](https://github.com/symfony/symfony/releases/tag/v6.4.0-RC2), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.0-RC2](https://github.com/symfony/symfony/releases/tag/v7.0.0-RC2), today) - The Symfony PHP framework
 - [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) ([v0.3.0](https://github.com/SymfonyCasts/sass-bundle/releases/tag/v0.3.0), 4 days ago) - Delightful Sass Support for Symfony &#43; AssetMapper
 - [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) ([v6.3.0](https://github.com/KnpLabs/KnpPaginatorBundle/releases/tag/v6.3.0), 1 week ago) - SEO friendly Symfony paginator to sort and paginate
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.11.1](https://github.com/doctrine/DoctrineBundle/releases/tag/2.11.1), 1 week ago) - Symfony Bundle for Doctrine ORM and DBAL
