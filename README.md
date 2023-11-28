@@ -20,6 +20,7 @@
 
 #### Recent pull requests
 
+- ![](./assets/pr-open.svg) [Allow Symfony 7](https://github.com/1up-lab/OneupUploaderBundle/pull/436) on [1up-lab/OneupUploaderBundle](https://github.com/1up-lab/OneupUploaderBundle) (today)
 - ![](./assets/pr-open.svg) [[AssetMapper] Minor @var doc update](https://github.com/symfony/symfony/pull/52773) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-merged.svg) [Make deprecation warning about `enable_lazy_ghost_objects` more explicit](https://github.com/doctrine/DoctrineBundle/pull/1731) on [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) (5 days ago)
 - ![](./assets/pr-closed.svg) [Allow Symfony 7](https://github.com/briannesbitt/Carbon/pull/2888) on [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) (6 days ago)
@@ -29,7 +30,6 @@
 - ![](./assets/pr-merged.svg) [Optimized CI workflow and bumped Symfony version to 6.3](https://github.com/KnpLabs/KnpPaginatorBundle/pull/779) on [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) (1 week ago)
 - ![](./assets/pr-merged.svg) [Added config validation](https://github.com/SymfonyCasts/sass-bundle/pull/34) on [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) (1 week ago)
 - ![](./assets/pr-closed.svg) [Deprecated getPublicFilesystemPath in SassPublicPathAssetPathResolver, fixes phpstan suite](https://github.com/SymfonyCasts/sass-bundle/pull/33) on [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Allow Symfony 7](https://github.com/KnpLabs/KnpPaginatorBundle/pull/777) on [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) (2 weeks ago)
 
 #### Recent releases I've contributed to
 
