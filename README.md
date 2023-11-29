@@ -21,7 +21,7 @@
 #### Recent pull requests
 
 - ![](./assets/pr-open.svg) [Allow Symfony 7](https://github.com/1up-lab/OneupUploaderBundle/pull/436) on [1up-lab/OneupUploaderBundle](https://github.com/1up-lab/OneupUploaderBundle) (1 day ago)
-- ![](./assets/pr-open.svg) [[AssetMapper] Minor @var doc update](https://github.com/symfony/symfony/pull/52773) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- ![](./assets/pr-merged.svg) [[AssetMapper] Minor @var doc update](https://github.com/symfony/symfony/pull/52773) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-merged.svg) [Make deprecation warning about `enable_lazy_ghost_objects` more explicit](https://github.com/doctrine/DoctrineBundle/pull/1731) on [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) (6 days ago)
 - ![](./assets/pr-closed.svg) [Allow Symfony 7](https://github.com/briannesbitt/Carbon/pull/2888) on [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) (1 week ago)
 - ![](./assets/pr-open.svg) [Allow Symfony 7, dropped support for 4.4 and bumped minimal version to 5.4](https://github.com/prestaconcept/PrestaSitemapBundle/pull/324) on [prestaconcept/PrestaSitemapBundle](https://github.com/prestaconcept/PrestaSitemapBundle) (1 week ago)
