@@ -33,11 +33,11 @@
 
 #### Recent releases I've contributed to
 
+- [nepada/phone-number-doctrine](https://github.com/nepada/phone-number-doctrine) ([v2.2.1](https://github.com/nepada/phone-number-doctrine/releases/tag/v2.2.1), today) - Phone number type for Doctrine.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.1](https://github.com/symfony/symfony/releases/tag/v7.0.1), 1 day ago) - The Symfony PHP framework
 - [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) ([v0.3.0](https://github.com/SymfonyCasts/sass-bundle/releases/tag/v0.3.0), 1 week ago) - Delightful Sass Support for Symfony &#43; AssetMapper
 - [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) ([v6.3.0](https://github.com/KnpLabs/KnpPaginatorBundle/releases/tag/v6.3.0), 1 week ago) - SEO friendly Symfony paginator to sort and paginate
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.11.1](https://github.com/doctrine/DoctrineBundle/releases/tag/2.11.1), 2 weeks ago) - Symfony Bundle for Doctrine ORM and DBAL
-- [symfony/webpack-encore](https://github.com/symfony/webpack-encore) ([v4.5.0](https://github.com/symfony/webpack-encore/releases/tag/v4.5.0), 1 month ago) - A simple but powerful API for processing &amp; compiling assets built around Webpack
 
 
 
