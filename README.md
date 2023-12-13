@@ -20,6 +20,7 @@
 
 #### Recent pull requests
 
+- ![](./assets/pr-open.svg) [[Validator] Added missing dutch translation](https://github.com/symfony/symfony/pull/53031) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-open.svg) [Updated Dutch translations](https://github.com/symfony/demo/pull/1466) on [symfony/demo](https://github.com/symfony/demo) (1 week ago)
 - ![](./assets/pr-open.svg) [Allow Symfony 7](https://github.com/1up-lab/OneupUploaderBundle/pull/436) on [1up-lab/OneupUploaderBundle](https://github.com/1up-lab/OneupUploaderBundle) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[AssetMapper] Minor @var doc update](https://github.com/symfony/symfony/pull/52773) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
@@ -29,7 +30,6 @@
 - ![](./assets/pr-closed.svg) [Update CI to test Symfony 7](https://github.com/FriendsOfSymfony/FOSElasticaBundle/pull/1931) on [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Allow Symfony 7](https://github.com/SymfonyCasts/sass-bundle/pull/36) on [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Optimized CI workflow and bumped Symfony version to 6.3](https://github.com/KnpLabs/KnpPaginatorBundle/pull/779) on [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [Added config validation](https://github.com/SymfonyCasts/sass-bundle/pull/34) on [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) (4 weeks ago)
 
 #### Recent releases I've contributed to
 
