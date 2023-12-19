@@ -8,6 +8,7 @@
 
 #### Recent pull requests
 
+- ![](./assets/pr-open.svg) [[StimulusBundle] Added docs on TypeScript support](https://github.com/symfony/ux/pull/1345) on [symfony/ux](https://github.com/symfony/ux) (today)
 - ![](./assets/pr-merged.svg) [[StimulusBundle] Add support for typescript controllers](https://github.com/symfony/ux/pull/1335) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
 - ![](./assets/pr-merged.svg) [[Validator] Added missing dutch translation](https://github.com/symfony/symfony/pull/53031) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
 - ![](./assets/pr-open.svg) [Updated Dutch translations](https://github.com/symfony/demo/pull/1466) on [symfony/demo](https://github.com/symfony/demo) (2 weeks ago)
@@ -17,7 +18,6 @@
 - ![](./assets/pr-closed.svg) [Allow Symfony 7](https://github.com/briannesbitt/Carbon/pull/2888) on [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) (3 weeks ago)
 - ![](./assets/pr-open.svg) [Allow Symfony 7, dropped support for 4.4 and bumped minimal version to 5.4](https://github.com/prestaconcept/PrestaSitemapBundle/pull/324) on [prestaconcept/PrestaSitemapBundle](https://github.com/prestaconcept/PrestaSitemapBundle) (4 weeks ago)
 - ![](./assets/pr-closed.svg) [Update CI to test Symfony 7](https://github.com/FriendsOfSymfony/FOSElasticaBundle/pull/1931) on [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [Allow Symfony 7](https://github.com/SymfonyCasts/sass-bundle/pull/36) on [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) (1 month ago)
 
 #### Recent releases I've contributed to
 
