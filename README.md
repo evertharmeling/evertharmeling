@@ -8,13 +8,13 @@
 
 #### Recent pull requests
 
-- ![](./assets/pr-open.svg) [[StimulusBundle] Added docs on TypeScript support](https://github.com/symfony/ux/pull/1345) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-open.svg) [[StimulusBundle] Added docs on TypeScript support](https://github.com/symfony/ux/pull/1345) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
 - ![](./assets/pr-merged.svg) [[StimulusBundle] Add support for typescript controllers](https://github.com/symfony/ux/pull/1335) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Validator] Added missing dutch translation](https://github.com/symfony/symfony/pull/53031) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-open.svg) [Updated Dutch translations](https://github.com/symfony/demo/pull/1466) on [symfony/demo](https://github.com/symfony/demo) (2 weeks ago)
 - ![](./assets/pr-open.svg) [Allow Symfony 7](https://github.com/1up-lab/OneupUploaderBundle/pull/436) on [1up-lab/OneupUploaderBundle](https://github.com/1up-lab/OneupUploaderBundle) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[AssetMapper] Minor @var doc update](https://github.com/symfony/symfony/pull/52773) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [Make deprecation warning about `enable_lazy_ghost_objects` more explicit](https://github.com/doctrine/DoctrineBundle/pull/1731) on [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [Make deprecation warning about `enable_lazy_ghost_objects` more explicit](https://github.com/doctrine/DoctrineBundle/pull/1731) on [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) (4 weeks ago)
 - ![](./assets/pr-closed.svg) [Allow Symfony 7](https://github.com/briannesbitt/Carbon/pull/2888) on [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) (4 weeks ago)
 - ![](./assets/pr-open.svg) [Allow Symfony 7, dropped support for 4.4 and bumped minimal version to 5.4](https://github.com/prestaconcept/PrestaSitemapBundle/pull/324) on [prestaconcept/PrestaSitemapBundle](https://github.com/prestaconcept/PrestaSitemapBundle) (1 month ago)
 - ![](./assets/pr-closed.svg) [Update CI to test Symfony 7](https://github.com/FriendsOfSymfony/FOSElasticaBundle/pull/1931) on [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle) (1 month ago)
