@@ -21,7 +21,7 @@
 
 #### Recent releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.34](https://github.com/symfony/symfony/releases/tag/v5.4.34), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.11](https://github.com/symfony/symfony/releases/tag/v6.3.11), today) - The Symfony PHP framework
 - [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) ([v0.4.0](https://github.com/SymfonyCasts/sass-bundle/releases/tag/v0.4.0), 1 week ago) - Delightful Sass Support for Symfony &#43; AssetMapper
 - [nepada/phone-number-doctrine](https://github.com/nepada/phone-number-doctrine) ([v2.2.1](https://github.com/nepada/phone-number-doctrine/releases/tag/v2.2.1), 4 weeks ago) - Phone number type for Doctrine.
 - [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) ([v6.3.0](https://github.com/KnpLabs/KnpPaginatorBundle/releases/tag/v6.3.0), 1 month ago) - SEO friendly Symfony paginator to sort and paginate
