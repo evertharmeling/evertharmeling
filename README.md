@@ -16,12 +16,12 @@
 - ![](./assets/pr-open.svg) [Allow Symfony 7](https://github.com/1up-lab/OneupUploaderBundle/pull/436) on [1up-lab/OneupUploaderBundle](https://github.com/1up-lab/OneupUploaderBundle) (1 month ago)
 - ![](./assets/pr-merged.svg) [[AssetMapper] Minor @var doc update](https://github.com/symfony/symfony/pull/52773) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [Make deprecation warning about `enable_lazy_ghost_objects` more explicit](https://github.com/doctrine/DoctrineBundle/pull/1731) on [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) (1 month ago)
-- ![](./assets/pr-closed.svg) [Allow Symfony 7](https://github.com/briannesbitt/Carbon/pull/2888) on [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) (1 month ago)
+- ![](./assets/pr-closed.svg) [Allow Symfony 7](https://github.com/briannesbitt/Carbon/pull/2888) on [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) (2 months ago)
 - ![](./assets/pr-merged.svg) [Allow Symfony 7, dropped support for 4.4 and bumped minimal version to 5.4](https://github.com/prestaconcept/PrestaSitemapBundle/pull/324) on [prestaconcept/PrestaSitemapBundle](https://github.com/prestaconcept/PrestaSitemapBundle) (2 months ago)
 
 #### Recent releases I've contributed to
 
-- [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) ([v0.5.1](https://github.com/SymfonyCasts/sass-bundle/releases/tag/v0.5.1), 2 days ago) - Delightful Sass Support for Symfony &#43; AssetMapper
+- [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) ([v0.5.1](https://github.com/SymfonyCasts/sass-bundle/releases/tag/v0.5.1), 3 days ago) - Delightful Sass Support for Symfony &#43; AssetMapper
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.2](https://github.com/symfony/symfony/releases/tag/v7.0.2), 3 weeks ago) - The Symfony PHP framework
 - [nepada/phone-number-doctrine](https://github.com/nepada/phone-number-doctrine) ([v2.2.1](https://github.com/nepada/phone-number-doctrine/releases/tag/v2.2.1), 1 month ago) - Phone number type for Doctrine.
 - [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) ([v6.3.0](https://github.com/KnpLabs/KnpPaginatorBundle/releases/tag/v6.3.0), 2 months ago) - SEO friendly Symfony paginator to sort and paginate
