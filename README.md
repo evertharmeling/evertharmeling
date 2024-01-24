@@ -8,6 +8,7 @@
 
 #### Recent pull requests
 
+- ![](./assets/pr-open.svg) [Run tests for all supported versions defined for peerDependencies per component](https://github.com/symfony/ux/pull/1417) on [symfony/ux](https://github.com/symfony/ux) (today)
 - ![](./assets/pr-open.svg) [[ChartJs] Add support for chart.js:^4.0](https://github.com/symfony/ux/pull/1389) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[StimulusBundle] Added docs on TypeScript support](https://github.com/symfony/ux/pull/1345) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [[StimulusBundle] Add support for typescript controllers](https://github.com/symfony/ux/pull/1335) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
@@ -17,7 +18,6 @@
 - ![](./assets/pr-merged.svg) [[AssetMapper] Minor @var doc update](https://github.com/symfony/symfony/pull/52773) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [Make deprecation warning about `enable_lazy_ghost_objects` more explicit](https://github.com/doctrine/DoctrineBundle/pull/1731) on [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) (2 months ago)
 - ![](./assets/pr-closed.svg) [Allow Symfony 7](https://github.com/briannesbitt/Carbon/pull/2888) on [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) (2 months ago)
-- ![](./assets/pr-merged.svg) [Allow Symfony 7, dropped support for 4.4 and bumped minimal version to 5.4](https://github.com/prestaconcept/PrestaSitemapBundle/pull/324) on [prestaconcept/PrestaSitemapBundle](https://github.com/prestaconcept/PrestaSitemapBundle) (2 months ago)
 
 #### Recent releases I've contributed to
 
