@@ -8,7 +8,7 @@
 
 #### Recent pull requests
 
-- ![](./assets/pr-open.svg) [Run tests for all supported versions defined for peerDependencies per component](https://github.com/symfony/ux/pull/1417) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-open.svg) [Run tests for all supported versions defined for peerDependencies per component](https://github.com/symfony/ux/pull/1417) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
 - ![](./assets/pr-open.svg) [[ChartJs] Add support for chart.js:^4.0](https://github.com/symfony/ux/pull/1389) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[StimulusBundle] Added docs on TypeScript support](https://github.com/symfony/ux/pull/1345) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [[StimulusBundle] Add support for typescript controllers](https://github.com/symfony/ux/pull/1335) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
@@ -21,10 +21,10 @@
 
 #### Recent releases I've contributed to
 
-- [symfony/webpack-encore](https://github.com/symfony/webpack-encore) ([v4.6.1](https://github.com/symfony/webpack-encore/releases/tag/v4.6.1), 3 days ago) - A simple but powerful API for processing &amp; compiling assets built around Webpack
-- [prestaconcept/PrestaSitemapBundle](https://github.com/prestaconcept/PrestaSitemapBundle) ([v4.0.0](https://github.com/prestaconcept/PrestaSitemapBundle/releases/tag/v4.0.0), 4 days ago) - A symfony bundle that provides tools to build a rich application sitemap. The main goals are : simple, no databases, various namespace (eg. google image), respect constraints etc.
+- [symfony/webpack-encore](https://github.com/symfony/webpack-encore) ([v4.6.1](https://github.com/symfony/webpack-encore/releases/tag/v4.6.1), 4 days ago) - A simple but powerful API for processing &amp; compiling assets built around Webpack
+- [prestaconcept/PrestaSitemapBundle](https://github.com/prestaconcept/PrestaSitemapBundle) ([v4.0.0](https://github.com/prestaconcept/PrestaSitemapBundle/releases/tag/v4.0.0), 5 days ago) - A symfony bundle that provides tools to build a rich application sitemap. The main goals are : simple, no databases, various namespace (eg. google image), respect constraints etc.
 - [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) ([v0.5.1](https://github.com/SymfonyCasts/sass-bundle/releases/tag/v0.5.1), 1 week ago) - Delightful Sass Support for Symfony &#43; AssetMapper
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.2](https://github.com/symfony/symfony/releases/tag/v7.0.2), 4 weeks ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.2](https://github.com/symfony/symfony/releases/tag/v7.0.2), 1 month ago) - The Symfony PHP framework
 - [nepada/phone-number-doctrine](https://github.com/nepada/phone-number-doctrine) ([v2.2.1](https://github.com/nepada/phone-number-doctrine/releases/tag/v2.2.1), 1 month ago) - Phone number type for Doctrine.
 
 
