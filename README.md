@@ -21,8 +21,8 @@
 
 #### Recent releases I've contributed to
 
+- [symfony/ux](https://github.com/symfony/ux) ([v2.14.1](https://github.com/symfony/ux/releases/tag/v2.14.1), today) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.3](https://github.com/symfony/symfony/releases/tag/v7.0.3), 3 days ago) - The Symfony PHP framework
-- [symfony/ux](https://github.com/symfony/ux) ([v2.14.0](https://github.com/symfony/ux/releases/tag/v2.14.0), 4 days ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 - [symfony/webpack-encore](https://github.com/symfony/webpack-encore) ([v4.6.1](https://github.com/symfony/webpack-encore/releases/tag/v4.6.1), 1 week ago) - A simple but powerful API for processing &amp; compiling assets built around Webpack
 - [prestaconcept/PrestaSitemapBundle](https://github.com/prestaconcept/PrestaSitemapBundle) ([v4.0.0](https://github.com/prestaconcept/PrestaSitemapBundle/releases/tag/v4.0.0), 1 week ago) - A symfony bundle that provides tools to build a rich application sitemap. The main goals are : simple, no databases, various namespace (eg. google image), respect constraints etc.
 - [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) ([v0.5.1](https://github.com/SymfonyCasts/sass-bundle/releases/tag/v0.5.1), 2 weeks ago) - Delightful Sass Support for Symfony &#43; AssetMapper
