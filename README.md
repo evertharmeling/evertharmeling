@@ -8,7 +8,8 @@
 
 #### Recent pull requests
 
-- ![](./assets/pr-open.svg) [[Autocomplete] Add conflict on doctrine/orm:^3.0](https://github.com/symfony/ux/pull/1459) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-open.svg) [[Autocomplete] Add support for doctrine/orm:^3.0](https://github.com/symfony/ux/pull/1468) on [symfony/ux](https://github.com/symfony/ux) (today)
+- ![](./assets/pr-closed.svg) [[Autocomplete] Add conflict on doctrine/orm:^3.0](https://github.com/symfony/ux/pull/1459) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
 - ![](./assets/pr-open.svg) [[ChartJs] Remove &lt;3.9 boundary and fix testsuite](https://github.com/symfony/ux/pull/1433) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [Run tests for all supported versions defined for peerDependencies per component](https://github.com/symfony/ux/pull/1417) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[ChartJs] Add support for chart.js:^4.0](https://github.com/symfony/ux/pull/1389) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
@@ -17,7 +18,6 @@
 - ![](./assets/pr-merged.svg) [[Validator] Added missing dutch translation](https://github.com/symfony/symfony/pull/53031) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-open.svg) [Updated Dutch translations](https://github.com/symfony/demo/pull/1466) on [symfony/demo](https://github.com/symfony/demo) (2 months ago)
 - ![](./assets/pr-merged.svg) [Allow Symfony 7](https://github.com/1up-lab/OneupUploaderBundle/pull/436) on [1up-lab/OneupUploaderBundle](https://github.com/1up-lab/OneupUploaderBundle) (2 months ago)
-- ![](./assets/pr-merged.svg) [[AssetMapper] Minor @var doc update](https://github.com/symfony/symfony/pull/52773) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 
 #### Recent releases I've contributed to
 
