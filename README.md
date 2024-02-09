@@ -8,12 +8,12 @@
 
 #### Recent pull requests
 
-- ![](./assets/pr-open.svg) [[StimulusBundle/TwigComponent] Fix &#34;use_yield&#34; to &#34;true&#34; deprecation notice in CI](https://github.com/symfony/ux/pull/1478) on [symfony/ux](https://github.com/symfony/ux) (today)
-- ![](./assets/pr-open.svg) [[Autocomplete] Add support for doctrine/orm:^3.0](https://github.com/symfony/ux/pull/1468) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-closed.svg) [[Autocomplete] Add conflict on doctrine/orm:^3.0](https://github.com/symfony/ux/pull/1459) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-open.svg) [[StimulusBundle/TwigComponent] Fix &#34;use_yield&#34; to &#34;true&#34; deprecation notice in CI](https://github.com/symfony/ux/pull/1478) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-open.svg) [[Autocomplete] Add support for doctrine/orm:^3.0](https://github.com/symfony/ux/pull/1468) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-closed.svg) [[Autocomplete] Add conflict on doctrine/orm:^3.0](https://github.com/symfony/ux/pull/1459) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
 - ![](./assets/pr-open.svg) [[ChartJs] Remove &lt;3.9 boundary and fix testsuite](https://github.com/symfony/ux/pull/1433) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [Run tests for all supported versions defined for peerDependencies per component](https://github.com/symfony/ux/pull/1417) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[ChartJs] Add support for chart.js:^4.0](https://github.com/symfony/ux/pull/1389) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [[ChartJs] Add support for chart.js:^4.0](https://github.com/symfony/ux/pull/1389) on [symfony/ux](https://github.com/symfony/ux) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [[StimulusBundle] Added docs on TypeScript support](https://github.com/symfony/ux/pull/1345) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [[StimulusBundle] Add support for typescript controllers](https://github.com/symfony/ux/pull/1335) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Validator] Added missing dutch translation](https://github.com/symfony/symfony/pull/53031) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
@@ -21,8 +21,8 @@
 
 #### Recent releases I've contributed to
 
-- [symfony/ux](https://github.com/symfony/ux) ([v2.14.2](https://github.com/symfony/ux/releases/tag/v2.14.2), 1 day ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.11.2](https://github.com/doctrine/DoctrineBundle/releases/tag/2.11.2), 2 days ago) - Symfony Bundle for Doctrine ORM and DBAL
+- [symfony/ux](https://github.com/symfony/ux) ([v2.14.2](https://github.com/symfony/ux/releases/tag/v2.14.2), 2 days ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.11.2](https://github.com/doctrine/DoctrineBundle/releases/tag/2.11.2), 3 days ago) - Symfony Bundle for Doctrine ORM and DBAL
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.3](https://github.com/symfony/symfony/releases/tag/v7.0.3), 1 week ago) - The Symfony PHP framework
 - [symfony/webpack-encore](https://github.com/symfony/webpack-encore) ([v4.6.1](https://github.com/symfony/webpack-encore/releases/tag/v4.6.1), 2 weeks ago) - A simple but powerful API for processing &amp; compiling assets built around Webpack
 - [prestaconcept/PrestaSitemapBundle](https://github.com/prestaconcept/PrestaSitemapBundle) ([v4.0.0](https://github.com/prestaconcept/PrestaSitemapBundle/releases/tag/v4.0.0), 2 weeks ago) - A symfony bundle that provides tools to build a rich application sitemap. The main goals are : simple, no databases, various namespace (eg. google image), respect constraints etc.
