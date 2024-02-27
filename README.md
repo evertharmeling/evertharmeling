@@ -8,7 +8,7 @@
 
 #### Recent pull requests
 
-- ![](./assets/pr-merged.svg) [[ChartJs] Remove &lt;3.9 boundary in devDependencies](https://github.com/symfony/ux/pull/1533) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-merged.svg) [[ChartJs] Remove &lt;3.9 boundary in devDependencies](https://github.com/symfony/ux/pull/1533) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
 - ![](./assets/pr-merged.svg) [[StimulusBundle/TwigComponent] Fix &#34;use_yield&#34; to &#34;true&#34; deprecation notice in CI](https://github.com/symfony/ux/pull/1478) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Autocomplete] Add support for doctrine/orm:^3.0](https://github.com/symfony/ux/pull/1468) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-closed.svg) [[Autocomplete] Add conflict on doctrine/orm:^3.0](https://github.com/symfony/ux/pull/1459) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
@@ -21,9 +21,9 @@
 
 #### Recent releases I've contributed to
 
-- [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) ([v0.6.0](https://github.com/SymfonyCasts/sass-bundle/releases/tag/v0.6.0), today) - Delightful Sass Support for Symfony &#43; AssetMapper
-- [symfony/ux](https://github.com/symfony/ux) ([v2.15.0](https://github.com/symfony/ux/releases/tag/v2.15.0), 6 days ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
-- [prestaconcept/PrestaSitemapBundle](https://github.com/prestaconcept/PrestaSitemapBundle) ([v4.1.0](https://github.com/prestaconcept/PrestaSitemapBundle/releases/tag/v4.1.0), 1 week ago) - A symfony bundle that provides tools to build a rich application sitemap. The main goals are : simple, no databases, various namespace (eg. google image), respect constraints etc.
+- [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) ([v0.6.0](https://github.com/SymfonyCasts/sass-bundle/releases/tag/v0.6.0), 1 day ago) - Delightful Sass Support for Symfony &#43; AssetMapper
+- [symfony/ux](https://github.com/symfony/ux) ([v2.15.0](https://github.com/symfony/ux/releases/tag/v2.15.0), 1 week ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
+- [prestaconcept/PrestaSitemapBundle](https://github.com/prestaconcept/PrestaSitemapBundle) ([v4.1.0](https://github.com/prestaconcept/PrestaSitemapBundle/releases/tag/v4.1.0), 2 weeks ago) - A symfony bundle that provides tools to build a rich application sitemap. The main goals are : simple, no databases, various namespace (eg. google image), respect constraints etc.
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.11.3](https://github.com/doctrine/DoctrineBundle/releases/tag/2.11.3), 2 weeks ago) - Symfony Bundle for Doctrine ORM and DBAL
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.3](https://github.com/symfony/symfony/releases/tag/v7.0.3), 3 weeks ago) - The Symfony PHP framework
 
