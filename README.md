@@ -8,6 +8,7 @@
 
 #### Recent pull requests
 
+- ![](./assets/pr-open.svg) [Minor typo in basics.md](https://github.com/makinacorpus/DbToolsBundle/pull/118) on [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) (today)
 - ![](./assets/pr-merged.svg) [[ChartJs] Remove &lt;3.9 boundary in devDependencies](https://github.com/symfony/ux/pull/1533) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[StimulusBundle/TwigComponent] Fix &#34;use_yield&#34; to &#34;true&#34; deprecation notice in CI](https://github.com/symfony/ux/pull/1478) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Autocomplete] Add support for doctrine/orm:^3.0](https://github.com/symfony/ux/pull/1468) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
@@ -17,7 +18,6 @@
 - ![](./assets/pr-merged.svg) [[ChartJs] Add support for chart.js:^4.0](https://github.com/symfony/ux/pull/1389) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [[StimulusBundle] Added docs on TypeScript support](https://github.com/symfony/ux/pull/1345) on [symfony/ux](https://github.com/symfony/ux) (2 months ago)
 - ![](./assets/pr-merged.svg) [[StimulusBundle] Add support for typescript controllers](https://github.com/symfony/ux/pull/1335) on [symfony/ux](https://github.com/symfony/ux) (2 months ago)
-- ![](./assets/pr-merged.svg) [[Validator] Added missing dutch translation](https://github.com/symfony/symfony/pull/53031) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 
 #### Recent releases I've contributed to
 
