@@ -21,8 +21,8 @@
 
 #### Recent releases I've contributed to
 
-- [prestaconcept/PrestaSitemapBundle](https://github.com/prestaconcept/PrestaSitemapBundle) ([v4.1.1](https://github.com/prestaconcept/PrestaSitemapBundle/releases/tag/v4.1.1), today) - A symfony bundle that provides tools to build a rich application sitemap. The main goals are : simple, no databases, various namespace (eg. google image), respect constraints etc.
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.12.0](https://github.com/doctrine/DoctrineBundle/releases/tag/2.12.0), today) - Symfony Bundle for Doctrine ORM and DBAL
+- [prestaconcept/PrestaSitemapBundle](https://github.com/prestaconcept/PrestaSitemapBundle) ([v4.1.1](https://github.com/prestaconcept/PrestaSitemapBundle/releases/tag/v4.1.1), 1 day ago) - A symfony bundle that provides tools to build a rich application sitemap. The main goals are : simple, no databases, various namespace (eg. google image), respect constraints etc.
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.12.0](https://github.com/doctrine/DoctrineBundle/releases/tag/2.12.0), 1 day ago) - Symfony Bundle for Doctrine ORM and DBAL
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.5](https://github.com/symfony/symfony/releases/tag/v7.0.5), 2 weeks ago) - The Symfony PHP framework
 - [symfony/ux](https://github.com/symfony/ux) ([v2.16.0](https://github.com/symfony/ux/releases/tag/v2.16.0), 2 weeks ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 - [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) ([v0.6.0](https://github.com/SymfonyCasts/sass-bundle/releases/tag/v0.6.0), 3 weeks ago) - Delightful Sass Support for Symfony &#43; AssetMapper
