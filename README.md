@@ -13,7 +13,7 @@
 - ![](./assets/pr-merged.svg) [[ChartJs] Remove &lt;3.9 boundary in devDependencies](https://github.com/symfony/ux/pull/1533) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [[StimulusBundle/TwigComponent] Fix &#34;use_yield&#34; to &#34;true&#34; deprecation notice in CI](https://github.com/symfony/ux/pull/1478) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Autocomplete] Add support for doctrine/orm:^3.0](https://github.com/symfony/ux/pull/1468) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
-- ![](./assets/pr-closed.svg) [[Autocomplete] Add conflict on doctrine/orm:^3.0](https://github.com/symfony/ux/pull/1459) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
+- ![](./assets/pr-closed.svg) [[Autocomplete] Add conflict on doctrine/orm:^3.0](https://github.com/symfony/ux/pull/1459) on [symfony/ux](https://github.com/symfony/ux) (2 months ago)
 - ![](./assets/pr-closed.svg) [[ChartJs] Remove &lt;3.9 boundary and fix testsuite](https://github.com/symfony/ux/pull/1433) on [symfony/ux](https://github.com/symfony/ux) (2 months ago)
 - ![](./assets/pr-merged.svg) [Run tests for all supported versions defined for peerDependencies per component](https://github.com/symfony/ux/pull/1417) on [symfony/ux](https://github.com/symfony/ux) (2 months ago)
 - ![](./assets/pr-merged.svg) [[ChartJs] Add support for chart.js:^4.0](https://github.com/symfony/ux/pull/1389) on [symfony/ux](https://github.com/symfony/ux) (2 months ago)
@@ -21,7 +21,7 @@
 
 #### Recent releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.6](https://github.com/symfony/symfony/releases/tag/v7.0.6), 1 day ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.6](https://github.com/symfony/symfony/releases/tag/v7.0.6), 2 days ago) - The Symfony PHP framework
 - [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) ([1.1.0](https://github.com/makinacorpus/DbToolsBundle/releases/tag/1.1.0), 1 week ago) - A Symfony bundle to backup, restore and anonymize your data
 - [prestaconcept/PrestaSitemapBundle](https://github.com/prestaconcept/PrestaSitemapBundle) ([v4.1.1](https://github.com/prestaconcept/PrestaSitemapBundle/releases/tag/v4.1.1), 2 weeks ago) - A symfony bundle that provides tools to build a rich application sitemap. The main goals are : simple, no databases, various namespace (eg. google image), respect constraints etc.
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.12.0](https://github.com/doctrine/DoctrineBundle/releases/tag/2.12.0), 2 weeks ago) - Symfony Bundle for Doctrine ORM and DBAL
