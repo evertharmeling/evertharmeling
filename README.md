@@ -10,7 +10,7 @@
 
 - ![](./assets/pr-merged.svg) [Support Symfony 7](https://github.com/FriendsOfSymfony/FOSElasticaBundle/pull/1938) on [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle) (1 month ago)
 - ![](./assets/pr-merged.svg) [Minor typo in basics.md](https://github.com/makinacorpus/DbToolsBundle/pull/118) on [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) (1 month ago)
-- ![](./assets/pr-merged.svg) [[ChartJs] Remove &lt;3.9 boundary in devDependencies](https://github.com/symfony/ux/pull/1533) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
+- ![](./assets/pr-merged.svg) [[ChartJs] Remove &lt;3.9 boundary in devDependencies](https://github.com/symfony/ux/pull/1533) on [symfony/ux](https://github.com/symfony/ux) (2 months ago)
 - ![](./assets/pr-merged.svg) [[StimulusBundle/TwigComponent] Fix &#34;use_yield&#34; to &#34;true&#34; deprecation notice in CI](https://github.com/symfony/ux/pull/1478) on [symfony/ux](https://github.com/symfony/ux) (2 months ago)
 - ![](./assets/pr-merged.svg) [[Autocomplete] Add support for doctrine/orm:^3.0](https://github.com/symfony/ux/pull/1468) on [symfony/ux](https://github.com/symfony/ux) (2 months ago)
 - ![](./assets/pr-closed.svg) [[Autocomplete] Add conflict on doctrine/orm:^3.0](https://github.com/symfony/ux/pull/1459) on [symfony/ux](https://github.com/symfony/ux) (2 months ago)
