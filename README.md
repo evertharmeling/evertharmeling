@@ -21,7 +21,7 @@
 
 #### Recent releases I've contributed to
 
-- [symfony/ux](https://github.com/symfony/ux) ([v2.17.0](https://github.com/symfony/ux/releases/tag/v2.17.0), 5 days ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
+- [symfony/ux](https://github.com/symfony/ux) ([v2.17.0](https://github.com/symfony/ux/releases/tag/v2.17.0), 6 days ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.6](https://github.com/symfony/symfony/releases/tag/v7.0.6), 3 weeks ago) - The Symfony PHP framework
 - [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) ([1.1.0](https://github.com/makinacorpus/DbToolsBundle/releases/tag/1.1.0), 1 month ago) - A Symfony bundle to backup, restore and anonymize your data
 - [prestaconcept/PrestaSitemapBundle](https://github.com/prestaconcept/PrestaSitemapBundle) ([v4.1.1](https://github.com/prestaconcept/PrestaSitemapBundle/releases/tag/v4.1.1), 1 month ago) - A symfony bundle that provides tools to build a rich application sitemap. The main goals are : simple, no databases, various namespace (eg. google image), respect constraints etc.
