@@ -17,11 +17,11 @@
 - ![](./assets/pr-closed.svg) [[ChartJs] Remove &lt;3.9 boundary and fix testsuite](https://github.com/symfony/ux/pull/1433) on [symfony/ux](https://github.com/symfony/ux) (3 months ago)
 - ![](./assets/pr-merged.svg) [Run tests for all supported versions defined for peerDependencies per component](https://github.com/symfony/ux/pull/1417) on [symfony/ux](https://github.com/symfony/ux) (3 months ago)
 - ![](./assets/pr-merged.svg) [[ChartJs] Add support for chart.js:^4.0](https://github.com/symfony/ux/pull/1389) on [symfony/ux](https://github.com/symfony/ux) (4 months ago)
-- ![](./assets/pr-merged.svg) [[StimulusBundle] Added docs on TypeScript support](https://github.com/symfony/ux/pull/1345) on [symfony/ux](https://github.com/symfony/ux) (4 months ago)
+- ![](./assets/pr-merged.svg) [[StimulusBundle] Added docs on TypeScript support](https://github.com/symfony/ux/pull/1345) on [symfony/ux](https://github.com/symfony/ux) (5 months ago)
 
 #### Recent releases I've contributed to
 
-- [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle) ([v6.4.0](https://github.com/FriendsOfSymfony/FOSElasticaBundle/releases/tag/v6.4.0), 3 days ago) - Elasticsearch PHP integration for your Symfony project using Elastica.
+- [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle) ([v6.4.0](https://github.com/FriendsOfSymfony/FOSElasticaBundle/releases/tag/v6.4.0), 4 days ago) - Elasticsearch PHP integration for your Symfony project using Elastica.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.1.0-BETA1), 2 weeks ago) - The Symfony PHP framework
 - [symfony/ux](https://github.com/symfony/ux) ([v2.17.0](https://github.com/symfony/ux/releases/tag/v2.17.0), 3 weeks ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 - [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) ([1.1.0](https://github.com/makinacorpus/DbToolsBundle/releases/tag/1.1.0), 1 month ago) - A Symfony bundle to backup, restore and anonymize your data
