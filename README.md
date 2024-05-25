@@ -21,7 +21,7 @@
 
 #### Recent releases I've contributed to
 
-- [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) ([v0.7.0](https://github.com/SymfonyCasts/sass-bundle/releases/tag/v0.7.0), 2 days ago) - Delightful Sass Support for Symfony &#43; AssetMapper
+- [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) ([v0.7.0](https://github.com/SymfonyCasts/sass-bundle/releases/tag/v0.7.0), 3 days ago) - Delightful Sass Support for Symfony &#43; AssetMapper
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.1.0-RC1), 1 week ago) - The Symfony PHP framework
 - [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle) ([v6.4.0](https://github.com/FriendsOfSymfony/FOSElasticaBundle/releases/tag/v6.4.0), 1 week ago) - Elasticsearch PHP integration for your Symfony project using Elastica.
 - [symfony/ux](https://github.com/symfony/ux) ([v2.17.0](https://github.com/symfony/ux/releases/tag/v2.17.0), 1 month ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
