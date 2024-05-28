@@ -21,11 +21,11 @@
 
 #### Recent releases I've contributed to
 
+- [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) ([1.2.0](https://github.com/makinacorpus/DbToolsBundle/releases/tag/1.2.0), today) - A Symfony bundle to backup, restore and anonymize your data
 - [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) ([v0.7.0](https://github.com/SymfonyCasts/sass-bundle/releases/tag/v0.7.0), 6 days ago) - Delightful Sass Support for Symfony &#43; AssetMapper
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.1.0-RC1), 1 week ago) - The Symfony PHP framework
 - [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle) ([v6.4.0](https://github.com/FriendsOfSymfony/FOSElasticaBundle/releases/tag/v6.4.0), 2 weeks ago) - Elasticsearch PHP integration for your Symfony project using Elastica.
 - [symfony/ux](https://github.com/symfony/ux) ([v2.17.0](https://github.com/symfony/ux/releases/tag/v2.17.0), 1 month ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
-- [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) ([1.1.0](https://github.com/makinacorpus/DbToolsBundle/releases/tag/1.1.0), 2 months ago) - A Symfony bundle to backup, restore and anonymize your data
 
 
 
