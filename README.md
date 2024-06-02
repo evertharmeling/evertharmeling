@@ -21,7 +21,7 @@
 
 #### Recent releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.4.8](https://github.com/symfony/symfony/releases/tag/v6.4.8), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.8](https://github.com/symfony/symfony/releases/tag/v7.0.8), today) - The Symfony PHP framework
 - [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) ([v6.4.0](https://github.com/KnpLabs/KnpPaginatorBundle/releases/tag/v6.4.0), 2 days ago) - SEO friendly Symfony paginator to sort and paginate
 - [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) ([1.2.0](https://github.com/makinacorpus/DbToolsBundle/releases/tag/1.2.0), 5 days ago) - A Symfony bundle to backup, restore and anonymize your data
 - [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) ([v0.7.0](https://github.com/SymfonyCasts/sass-bundle/releases/tag/v0.7.0), 1 week ago) - Delightful Sass Support for Symfony &#43; AssetMapper
