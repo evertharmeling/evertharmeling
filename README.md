@@ -21,11 +21,11 @@
 
 #### Recent releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.1](https://github.com/symfony/symfony/releases/tag/v7.1.1), 3 days ago) - The Symfony PHP framework
+- [symfony/ux](https://github.com/symfony/ux) ([v2.18.0](https://github.com/symfony/ux/releases/tag/v2.18.0), 1 day ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.1](https://github.com/symfony/symfony/releases/tag/v7.1.1), 4 days ago) - The Symfony PHP framework
 - [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) ([v6.4.0](https://github.com/KnpLabs/KnpPaginatorBundle/releases/tag/v6.4.0), 1 week ago) - SEO friendly Symfony paginator to sort and paginate
 - [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) ([1.2.0](https://github.com/makinacorpus/DbToolsBundle/releases/tag/1.2.0), 1 week ago) - A Symfony bundle to backup, restore and anonymize your data
 - [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) ([v0.7.0](https://github.com/SymfonyCasts/sass-bundle/releases/tag/v0.7.0), 2 weeks ago) - Delightful Sass Support for Symfony &#43; AssetMapper
-- [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle) ([v6.4.0](https://github.com/FriendsOfSymfony/FOSElasticaBundle/releases/tag/v6.4.0), 3 weeks ago) - Elasticsearch PHP integration for your Symfony project using Elastica.
 
 
 
