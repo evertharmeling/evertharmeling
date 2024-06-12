@@ -21,7 +21,7 @@
 
 #### Recent releases I've contributed to
 
-- [symfony/ux](https://github.com/symfony/ux) ([v2.18.0](https://github.com/symfony/ux/releases/tag/v2.18.0), 5 days ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
+- [symfony/ux](https://github.com/symfony/ux) ([v2.18.1](https://github.com/symfony/ux/releases/tag/v2.18.1), today) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.1](https://github.com/symfony/symfony/releases/tag/v7.1.1), 1 week ago) - The Symfony PHP framework
 - [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) ([v6.4.0](https://github.com/KnpLabs/KnpPaginatorBundle/releases/tag/v6.4.0), 1 week ago) - SEO friendly Symfony paginator to sort and paginate
 - [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) ([1.2.0](https://github.com/makinacorpus/DbToolsBundle/releases/tag/1.2.0), 2 weeks ago) - A Symfony bundle to backup, restore and anonymize your data
