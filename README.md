@@ -21,8 +21,8 @@
 
 #### Recent releases I've contributed to
 
-- [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) ([1.2.1](https://github.com/makinacorpus/DbToolsBundle/releases/tag/1.2.1), 2 days ago) - A Symfony bundle to backup, restore and anonymize your data
-- [symfony/ux](https://github.com/symfony/ux) ([v2.18.1](https://github.com/symfony/ux/releases/tag/v2.18.1), 4 days ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
+- [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) ([1.2.1](https://github.com/makinacorpus/DbToolsBundle/releases/tag/1.2.1), 3 days ago) - A Symfony bundle to backup, restore and anonymize your data
+- [symfony/ux](https://github.com/symfony/ux) ([v2.18.1](https://github.com/symfony/ux/releases/tag/v2.18.1), 5 days ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.1](https://github.com/symfony/symfony/releases/tag/v7.1.1), 1 week ago) - The Symfony PHP framework
 - [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) ([v6.4.0](https://github.com/KnpLabs/KnpPaginatorBundle/releases/tag/v6.4.0), 2 weeks ago) - SEO friendly Symfony paginator to sort and paginate
 - [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) ([v0.7.0](https://github.com/SymfonyCasts/sass-bundle/releases/tag/v0.7.0), 3 weeks ago) - Delightful Sass Support for Symfony &#43; AssetMapper
