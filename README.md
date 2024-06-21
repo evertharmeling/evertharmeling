@@ -10,7 +10,7 @@
 
 - ![](./assets/pr-merged.svg) [Support Symfony 7](https://github.com/FriendsOfSymfony/FOSElasticaBundle/pull/1938) on [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle) (3 months ago)
 - ![](./assets/pr-merged.svg) [Minor typo in basics.md](https://github.com/makinacorpus/DbToolsBundle/pull/118) on [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) (3 months ago)
-- ![](./assets/pr-merged.svg) [[ChartJs] Remove &lt;3.9 boundary in devDependencies](https://github.com/symfony/ux/pull/1533) on [symfony/ux](https://github.com/symfony/ux) (3 months ago)
+- ![](./assets/pr-merged.svg) [[ChartJs] Remove &lt;3.9 boundary in devDependencies](https://github.com/symfony/ux/pull/1533) on [symfony/ux](https://github.com/symfony/ux) (4 months ago)
 - ![](./assets/pr-merged.svg) [[StimulusBundle/TwigComponent] Fix &#34;use_yield&#34; to &#34;true&#34; deprecation notice in CI](https://github.com/symfony/ux/pull/1478) on [symfony/ux](https://github.com/symfony/ux) (4 months ago)
 - ![](./assets/pr-merged.svg) [[Autocomplete] Add support for doctrine/orm:^3.0](https://github.com/symfony/ux/pull/1468) on [symfony/ux](https://github.com/symfony/ux) (4 months ago)
 - ![](./assets/pr-closed.svg) [[Autocomplete] Add conflict on doctrine/orm:^3.0](https://github.com/symfony/ux/pull/1459) on [symfony/ux](https://github.com/symfony/ux) (4 months ago)
@@ -21,11 +21,11 @@
 
 #### Recent releases I've contributed to
 
-- [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) ([1.2.1](https://github.com/makinacorpus/DbToolsBundle/releases/tag/1.2.1), 6 days ago) - A Symfony bundle to backup, restore and anonymize your data
+- [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) ([1.2.1](https://github.com/makinacorpus/DbToolsBundle/releases/tag/1.2.1), 1 week ago) - A Symfony bundle to backup, restore and anonymize your data
 - [symfony/ux](https://github.com/symfony/ux) ([v2.18.1](https://github.com/symfony/ux/releases/tag/v2.18.1), 1 week ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.1](https://github.com/symfony/symfony/releases/tag/v7.1.1), 2 weeks ago) - The Symfony PHP framework
-- [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) ([v6.4.0](https://github.com/KnpLabs/KnpPaginatorBundle/releases/tag/v6.4.0), 2 weeks ago) - SEO friendly Symfony paginator to sort and paginate
-- [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) ([v0.7.0](https://github.com/SymfonyCasts/sass-bundle/releases/tag/v0.7.0), 4 weeks ago) - Delightful Sass Support for Symfony &#43; AssetMapper
+- [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) ([v6.4.0](https://github.com/KnpLabs/KnpPaginatorBundle/releases/tag/v6.4.0), 3 weeks ago) - SEO friendly Symfony paginator to sort and paginate
+- [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) ([v0.7.0](https://github.com/SymfonyCasts/sass-bundle/releases/tag/v0.7.0), 1 month ago) - Delightful Sass Support for Symfony &#43; AssetMapper
 
 
 
