@@ -21,7 +21,7 @@
 
 #### Recent releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.4](https://github.com/symfony/symfony/releases/tag/v7.1.4), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.4](https://github.com/symfony/symfony/releases/tag/v7.1.4), 1 day ago) - The Symfony PHP framework
 - [symfony/ux](https://github.com/symfony/ux) ([v2.19.3](https://github.com/symfony/ux/releases/tag/v2.19.3), 2 weeks ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 - [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) ([1.2.1](https://github.com/makinacorpus/DbToolsBundle/releases/tag/1.2.1), 2 months ago) - A Symfony bundle to backup, restore and anonymize your data
 - [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) ([v6.4.0](https://github.com/KnpLabs/KnpPaginatorBundle/releases/tag/v6.4.0), 3 months ago) - SEO friendly Symfony paginator to sort and paginate
