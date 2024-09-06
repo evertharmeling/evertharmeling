@@ -21,10 +21,10 @@
 
 #### Recent releases I've contributed to
 
-- [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) ([v6.5.0](https://github.com/KnpLabs/KnpPaginatorBundle/releases/tag/v6.5.0), 2 days ago) - SEO friendly Symfony paginator to sort and paginate
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.13.0](https://github.com/doctrine/DoctrineBundle/releases/tag/2.13.0), 4 days ago) - Symfony Bundle for Doctrine ORM and DBAL
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.4](https://github.com/symfony/symfony/releases/tag/v7.1.4), 6 days ago) - The Symfony PHP framework
-- [symfony/ux](https://github.com/symfony/ux) ([v2.19.3](https://github.com/symfony/ux/releases/tag/v2.19.3), 2 weeks ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
+- [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) ([v6.5.0](https://github.com/KnpLabs/KnpPaginatorBundle/releases/tag/v6.5.0), 3 days ago) - SEO friendly Symfony paginator to sort and paginate
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.13.0](https://github.com/doctrine/DoctrineBundle/releases/tag/2.13.0), 5 days ago) - Symfony Bundle for Doctrine ORM and DBAL
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.4](https://github.com/symfony/symfony/releases/tag/v7.1.4), 1 week ago) - The Symfony PHP framework
+- [symfony/ux](https://github.com/symfony/ux) ([v2.19.3](https://github.com/symfony/ux/releases/tag/v2.19.3), 3 weeks ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 - [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) ([1.2.1](https://github.com/makinacorpus/DbToolsBundle/releases/tag/1.2.1), 2 months ago) - A Symfony bundle to backup, restore and anonymize your data
 
 
