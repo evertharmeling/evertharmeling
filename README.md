@@ -21,7 +21,7 @@
 
 #### Recent releases I've contributed to
 
-- [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) ([v6.5.0](https://github.com/KnpLabs/KnpPaginatorBundle/releases/tag/v6.5.0), 1 week ago) - SEO friendly Symfony paginator to sort and paginate
+- [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) ([v6.5.0](https://github.com/KnpLabs/KnpPaginatorBundle/releases/tag/v6.5.0), 2 weeks ago) - SEO friendly Symfony paginator to sort and paginate
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.13.0](https://github.com/doctrine/DoctrineBundle/releases/tag/2.13.0), 2 weeks ago) - Symfony Bundle for Doctrine ORM and DBAL
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.4](https://github.com/symfony/symfony/releases/tag/v7.1.4), 2 weeks ago) - The Symfony PHP framework
 - [symfony/ux](https://github.com/symfony/ux) ([v2.19.3](https://github.com/symfony/ux/releases/tag/v2.19.3), 1 month ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
