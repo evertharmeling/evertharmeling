@@ -14,15 +14,15 @@
 - ![](./assets/pr-merged.svg) [[StimulusBundle/TwigComponent] Fix &#34;use_yield&#34; to &#34;true&#34; deprecation notice in CI](https://github.com/symfony/ux/pull/1478) on [symfony/ux](https://github.com/symfony/ux) (7 months ago)
 - ![](./assets/pr-merged.svg) [[Autocomplete] Add support for doctrine/orm:^3.0](https://github.com/symfony/ux/pull/1468) on [symfony/ux](https://github.com/symfony/ux) (7 months ago)
 - ![](./assets/pr-closed.svg) [[Autocomplete] Add conflict on doctrine/orm:^3.0](https://github.com/symfony/ux/pull/1459) on [symfony/ux](https://github.com/symfony/ux) (7 months ago)
-- ![](./assets/pr-closed.svg) [[ChartJs] Remove &lt;3.9 boundary and fix testsuite](https://github.com/symfony/ux/pull/1433) on [symfony/ux](https://github.com/symfony/ux) (7 months ago)
+- ![](./assets/pr-closed.svg) [[ChartJs] Remove &lt;3.9 boundary and fix testsuite](https://github.com/symfony/ux/pull/1433) on [symfony/ux](https://github.com/symfony/ux) (8 months ago)
 - ![](./assets/pr-merged.svg) [Run tests for all supported versions defined for peerDependencies per component](https://github.com/symfony/ux/pull/1417) on [symfony/ux](https://github.com/symfony/ux) (8 months ago)
 - ![](./assets/pr-merged.svg) [[ChartJs] Add support for chart.js:^4.0](https://github.com/symfony/ux/pull/1389) on [symfony/ux](https://github.com/symfony/ux) (8 months ago)
 - ![](./assets/pr-merged.svg) [[StimulusBundle] Added docs on TypeScript support](https://github.com/symfony/ux/pull/1345) on [symfony/ux](https://github.com/symfony/ux) (9 months ago)
 
 #### Recent releases I've contributed to
 
-- [symfony/ux](https://github.com/symfony/ux) ([v2.20.0](https://github.com/symfony/ux/releases/tag/v2.20.0), 2 days ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.5](https://github.com/symfony/symfony/releases/tag/v7.1.5), 5 days ago) - The Symfony PHP framework
+- [symfony/ux](https://github.com/symfony/ux) ([v2.20.0](https://github.com/symfony/ux/releases/tag/v2.20.0), 3 days ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.5](https://github.com/symfony/symfony/releases/tag/v7.1.5), 6 days ago) - The Symfony PHP framework
 - [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) ([v6.5.0](https://github.com/KnpLabs/KnpPaginatorBundle/releases/tag/v6.5.0), 3 weeks ago) - SEO friendly Symfony paginator to sort and paginate
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.13.0](https://github.com/doctrine/DoctrineBundle/releases/tag/2.13.0), 3 weeks ago) - Symfony Bundle for Doctrine ORM and DBAL
 - [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) ([1.2.1](https://github.com/makinacorpus/DbToolsBundle/releases/tag/1.2.1), 3 months ago) - A Symfony bundle to backup, restore and anonymize your data
