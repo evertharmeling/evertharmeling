@@ -21,7 +21,7 @@
 
 #### Recent releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.2.0-BETA1), 5 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.2.0-BETA1), 6 days ago) - The Symfony PHP framework
 - [symfony/ux](https://github.com/symfony/ux) ([v2.21.0](https://github.com/symfony/ux/releases/tag/v2.21.0), 1 week ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 - [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) ([v0.8.1](https://github.com/SymfonyCasts/sass-bundle/releases/tag/v0.8.1), 2 weeks ago) - Delightful Sass Support for Symfony &#43; AssetMapper
 - [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) ([v6.6.1](https://github.com/KnpLabs/KnpPaginatorBundle/releases/tag/v6.6.1), 3 weeks ago) - SEO friendly Symfony paginator to sort and paginate
