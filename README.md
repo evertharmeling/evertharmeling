@@ -25,7 +25,7 @@
 - [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) ([v0.8.2](https://github.com/SymfonyCasts/sass-bundle/releases/tag/v0.8.2), 6 days ago) - Delightful Sass Support for Symfony &#43; AssetMapper
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.2.0-RC1), 6 days ago) - The Symfony PHP framework
 - [symfony/ux](https://github.com/symfony/ux) ([v2.21.0](https://github.com/symfony/ux/releases/tag/v2.21.0), 4 weeks ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
-- [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) ([v6.6.1](https://github.com/KnpLabs/KnpPaginatorBundle/releases/tag/v6.6.1), 1 month ago) - SEO friendly Symfony paginator to sort and paginate
+- [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) ([1.2.1](https://github.com/makinacorpus/DbToolsBundle/releases/tag/1.2.1), 5 months ago) - A PHP library to backup, restore and anonymize databases
 
 
 
