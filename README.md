@@ -8,7 +8,7 @@
 
 #### Recent pull requests
 
-- ![](./assets/pr-open.svg) [Fixed typos in docs](https://github.com/creativetimofficial/material-tailwind/pull/834) on [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind) (3 weeks ago)
+- ![](./assets/pr-open.svg) [Fixed typos in docs](https://github.com/creativetimofficial/material-tailwind/pull/834) on [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [Support Symfony 7](https://github.com/FriendsOfSymfony/FOSElasticaBundle/pull/1938) on [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle) (8 months ago)
 - ![](./assets/pr-merged.svg) [Minor typo in basics.md](https://github.com/makinacorpus/DbToolsBundle/pull/118) on [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) (8 months ago)
 - ![](./assets/pr-merged.svg) [[ChartJs] Remove &lt;3.9 boundary in devDependencies](https://github.com/symfony/ux/pull/1533) on [symfony/ux](https://github.com/symfony/ux) (9 months ago)
@@ -21,7 +21,7 @@
 
 #### Recent releases I've contributed to
 
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.13.1](https://github.com/doctrine/DoctrineBundle/releases/tag/2.13.1), 3 days ago) - Symfony Bundle for Doctrine ORM and DBAL
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.13.1](https://github.com/doctrine/DoctrineBundle/releases/tag/2.13.1), 4 days ago) - Symfony Bundle for Doctrine ORM and DBAL
 - [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) ([v0.8.2](https://github.com/SymfonyCasts/sass-bundle/releases/tag/v0.8.2), 1 week ago) - Delightful Sass Support for Symfony &#43; AssetMapper
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.2.0-RC1), 1 week ago) - The Symfony PHP framework
 - [symfony/ux](https://github.com/symfony/ux) ([v2.21.0](https://github.com/symfony/ux/releases/tag/v2.21.0), 1 month ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
