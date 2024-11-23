@@ -21,11 +21,11 @@
 
 #### Recent releases I've contributed to
 
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.13.1](https://github.com/doctrine/DoctrineBundle/releases/tag/2.13.1), 5 days ago) - Symfony Bundle for Doctrine ORM and DBAL
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.2.0-RC1), 1 week ago) - The Symfony PHP framework
 - [symfony/ux](https://github.com/symfony/ux) ([v2.21.0](https://github.com/symfony/ux/releases/tag/v2.21.0), 1 month ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 - [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) ([1.2.1](https://github.com/makinacorpus/DbToolsBundle/releases/tag/1.2.1), 5 months ago) - A PHP library to backup, restore and anonymize databases
 - [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle) ([v6.4.0](https://github.com/FriendsOfSymfony/FOSElasticaBundle/releases/tag/v6.4.0), 6 months ago) - Elasticsearch PHP integration for your Symfony project using Elastica.
+- [prestaconcept/PrestaSitemapBundle](https://github.com/prestaconcept/PrestaSitemapBundle) ([v4.1.1](https://github.com/prestaconcept/PrestaSitemapBundle/releases/tag/v4.1.1), 8 months ago) - A symfony bundle that provides tools to build a rich application sitemap. The main goals are : simple, no databases, various namespace (eg. google image), respect constraints etc.
 
 
 
