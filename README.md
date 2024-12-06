@@ -10,7 +10,7 @@
 
 - ![](./assets/pr-open.svg) [Fixed typos in docs](https://github.com/creativetimofficial/material-tailwind/pull/834) on [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind) (1 month ago)
 - ![](./assets/pr-merged.svg) [Support Symfony 7](https://github.com/FriendsOfSymfony/FOSElasticaBundle/pull/1938) on [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle) (8 months ago)
-- ![](./assets/pr-merged.svg) [Minor typo in basics.md](https://github.com/makinacorpus/DbToolsBundle/pull/118) on [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) (8 months ago)
+- ![](./assets/pr-merged.svg) [Minor typo in basics.md](https://github.com/makinacorpus/DbToolsBundle/pull/118) on [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) (9 months ago)
 - ![](./assets/pr-merged.svg) [[ChartJs] Remove &lt;3.9 boundary in devDependencies](https://github.com/symfony/ux/pull/1533) on [symfony/ux](https://github.com/symfony/ux) (9 months ago)
 - ![](./assets/pr-merged.svg) [[StimulusBundle/TwigComponent] Fix &#34;use_yield&#34; to &#34;true&#34; deprecation notice in CI](https://github.com/symfony/ux/pull/1478) on [symfony/ux](https://github.com/symfony/ux) (10 months ago)
 - ![](./assets/pr-merged.svg) [[Autocomplete] Add support for doctrine/orm:^3.0](https://github.com/symfony/ux/pull/1468) on [symfony/ux](https://github.com/symfony/ux) (10 months ago)
@@ -21,9 +21,9 @@
 
 #### Recent releases I've contributed to
 
-- [prestaconcept/PrestaSitemapBundle](https://github.com/prestaconcept/PrestaSitemapBundle) ([v4.1.2](https://github.com/prestaconcept/PrestaSitemapBundle/releases/tag/v4.1.2), 3 days ago) - A symfony bundle that provides tools to build a rich application sitemap. The main goals are : simple, no databases, various namespace (eg. google image), respect constraints etc.
-- [symfony/ux](https://github.com/symfony/ux) ([v2.22.0](https://github.com/symfony/ux/releases/tag/v2.22.0), 5 days ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0](https://github.com/symfony/symfony/releases/tag/v7.2.0), 6 days ago) - The Symfony PHP framework
+- [prestaconcept/PrestaSitemapBundle](https://github.com/prestaconcept/PrestaSitemapBundle) ([v4.1.2](https://github.com/prestaconcept/PrestaSitemapBundle/releases/tag/v4.1.2), 4 days ago) - A symfony bundle that provides tools to build a rich application sitemap. The main goals are : simple, no databases, various namespace (eg. google image), respect constraints etc.
+- [symfony/ux](https://github.com/symfony/ux) ([v2.22.0](https://github.com/symfony/ux/releases/tag/v2.22.0), 6 days ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0](https://github.com/symfony/symfony/releases/tag/v7.2.0), 1 week ago) - The Symfony PHP framework
 - [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) ([1.2.1](https://github.com/makinacorpus/DbToolsBundle/releases/tag/1.2.1), 5 months ago) - A PHP library to backup, restore and anonymize databases
 - [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle) ([v6.4.0](https://github.com/FriendsOfSymfony/FOSElasticaBundle/releases/tag/v6.4.0), 6 months ago) - Elasticsearch PHP integration for your Symfony project using Elastica.
 
