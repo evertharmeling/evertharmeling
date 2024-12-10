@@ -21,7 +21,7 @@
 
 #### Recent releases I've contributed to
 
-- [symfony/ux](https://github.com/symfony/ux) ([v2.22.1](https://github.com/symfony/ux/releases/tag/v2.22.1), today) - Symfony UX initiative: a JavaScript ecosystem for Symfony
+- [symfony/ux](https://github.com/symfony/ux) ([v2.22.1](https://github.com/symfony/ux/releases/tag/v2.22.1), 1 day ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 - [prestaconcept/PrestaSitemapBundle](https://github.com/prestaconcept/PrestaSitemapBundle) ([v4.1.2](https://github.com/prestaconcept/PrestaSitemapBundle/releases/tag/v4.1.2), 1 week ago) - A symfony bundle that provides tools to build a rich application sitemap. The main goals are : simple, no databases, various namespace (eg. google image), respect constraints etc.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0](https://github.com/symfony/symfony/releases/tag/v7.2.0), 1 week ago) - The Symfony PHP framework
 - [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) ([1.2.1](https://github.com/makinacorpus/DbToolsBundle/releases/tag/1.2.1), 5 months ago) - A PHP library to backup, restore and anonymize databases
