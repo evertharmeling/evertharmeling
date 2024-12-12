@@ -4,7 +4,7 @@ on:
    schedule:
      - cron: '1 * * * *'
 
-# jobs:
+jobs:
 #   github-activity-readme:
 #     runs-on: ubuntu-latest
 
