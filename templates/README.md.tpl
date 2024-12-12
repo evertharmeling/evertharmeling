@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 
 📫 How to reach me:
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/evertjes) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/evertharmeling)
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/evertjes) 
+[![Follow on BlueSky](https://img.shields.io/badge/--blue-sky?label=BlueSky&logo=BlueSky&style=social)](https://bsky.app/profile/evertjes.bsky.social) 
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/evertharmeling)
 
 <span style="margin-top: 6px;">
   <a style="all: unset;" href="https://github.com/anuraghazra/github-readme-stats">
