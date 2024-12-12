@@ -5,8 +5,8 @@ on:
      - cron: '1 * * * *'
 
 jobs:
-#   github-activity-readme:
-#     runs-on: ubuntu-latest
+  github-activity-readme:
+    runs-on: ubuntu-latest
 
 #     steps:
 #       - uses: actions/checkout@v2
