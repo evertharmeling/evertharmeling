@@ -8,6 +8,7 @@
 
 #### Recent pull requests
 
+- ![](./assets/pr-merged.svg) [Minor typo fix in AnalyzeCommand](https://github.com/twigstan/twigstan/pull/179) on [twigstan/twigstan](https://github.com/twigstan/twigstan) (today)
 - ![](./assets/pr-open.svg) [Fixed typos in docs](https://github.com/creativetimofficial/material-tailwind/pull/834) on [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind) (1 month ago)
 - ![](./assets/pr-merged.svg) [Support Symfony 7](https://github.com/FriendsOfSymfony/FOSElasticaBundle/pull/1938) on [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle) (8 months ago)
 - ![](./assets/pr-merged.svg) [Minor typo in basics.md](https://github.com/makinacorpus/DbToolsBundle/pull/118) on [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) (9 months ago)
@@ -17,21 +18,14 @@
 - ![](./assets/pr-closed.svg) [[Autocomplete] Add conflict on doctrine/orm:^3.0](https://github.com/symfony/ux/pull/1459) on [symfony/ux](https://github.com/symfony/ux) (10 months ago)
 - ![](./assets/pr-closed.svg) [[ChartJs] Remove &lt;3.9 boundary and fix testsuite](https://github.com/symfony/ux/pull/1433) on [symfony/ux](https://github.com/symfony/ux) (10 months ago)
 - ![](./assets/pr-merged.svg) [Run tests for all supported versions defined for peerDependencies per component](https://github.com/symfony/ux/pull/1417) on [symfony/ux](https://github.com/symfony/ux) (10 months ago)
-- ![](./assets/pr-merged.svg) [[ChartJs] Add support for chart.js:^4.0](https://github.com/symfony/ux/pull/1389) on [symfony/ux](https://github.com/symfony/ux) (11 months ago)
-
-#### Recent releases I've contributed to
-
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.1](https://github.com/symfony/symfony/releases/tag/v7.2.1), 1 day ago) - The Symfony PHP framework
-- [symfony/ux](https://github.com/symfony/ux) ([v2.22.1](https://github.com/symfony/ux/releases/tag/v2.22.1), 3 days ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
-- [prestaconcept/PrestaSitemapBundle](https://github.com/prestaconcept/PrestaSitemapBundle) ([v4.1.2](https://github.com/prestaconcept/PrestaSitemapBundle/releases/tag/v4.1.2), 1 week ago) - A symfony bundle that provides tools to build a rich application sitemap. The main goals are : simple, no databases, various namespace (eg. google image), respect constraints etc.
-- [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) ([1.2.1](https://github.com/makinacorpus/DbToolsBundle/releases/tag/1.2.1), 6 months ago) - A PHP library to backup, restore and anonymize databases
-- [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle) ([v6.4.0](https://github.com/FriendsOfSymfony/FOSElasticaBundle/releases/tag/v6.4.0), 7 months ago) - Elasticsearch PHP integration for your Symfony project using Elastica.
 
 
 
 📫 How to reach me:
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/evertjes) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/evertharmeling)
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/evertjes) 
+[![Follow on BlueSky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&label=BlueSky&style=social)](https://bsky.app/profile/evertjes.bsky.social) 
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/evertharmeling)
 
 <span style="margin-top: 6px;">
   <a style="all: unset;" href="https://github.com/anuraghazra/github-readme-stats">
