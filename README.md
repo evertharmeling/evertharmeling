@@ -8,7 +8,7 @@
 
 #### Recent pull requests
 
-- ![](./assets/pr-merged.svg) [Minor typo fix in AnalyzeCommand](https://github.com/twigstan/twigstan/pull/179) on [twigstan/twigstan](https://github.com/twigstan/twigstan) (4 weeks ago)
+- ![](./assets/pr-merged.svg) [Minor typo fix in AnalyzeCommand](https://github.com/twigstan/twigstan/pull/179) on [twigstan/twigstan](https://github.com/twigstan/twigstan) (1 month ago)
 - ![](./assets/pr-open.svg) [Fixed typos in docs](https://github.com/creativetimofficial/material-tailwind/pull/834) on [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind) (2 months ago)
 - ![](./assets/pr-merged.svg) [Support Symfony 7](https://github.com/FriendsOfSymfony/FOSElasticaBundle/pull/1938) on [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle) (9 months ago)
 - ![](./assets/pr-merged.svg) [Minor typo in basics.md](https://github.com/makinacorpus/DbToolsBundle/pull/118) on [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) (10 months ago)
