@@ -8,6 +8,7 @@
 
 #### Recent pull requests
 
+- ![](./assets/pr-merged.svg) [Update develop branch](https://github.com/evertharmeling/arduino-brouwkuyp-control/pull/3) on [evertharmeling/arduino-brouwkuyp-control](https://github.com/evertharmeling/arduino-brouwkuyp-control) (today)
 - ![](./assets/pr-merged.svg) [[Validator] Updated Dutch translation](https://github.com/symfony/symfony/pull/59518) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 - ![](./assets/pr-merged.svg) [Minor typo fix in AnalyzeCommand](https://github.com/twigstan/twigstan/pull/179) on [twigstan/twigstan](https://github.com/twigstan/twigstan) (3 months ago)
 - ![](./assets/pr-open.svg) [Fixed typos in docs](https://github.com/creativetimofficial/material-tailwind/pull/834) on [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind) (5 months ago)
@@ -17,7 +18,6 @@
 - ![](./assets/pr-merged.svg) [[StimulusBundle/TwigComponent] Fix &#34;use_yield&#34; to &#34;true&#34; deprecation notice in CI](https://github.com/symfony/ux/pull/1478) on [symfony/ux](https://github.com/symfony/ux) (1 year ago)
 - ![](./assets/pr-merged.svg) [[Autocomplete] Add support for doctrine/orm:^3.0](https://github.com/symfony/ux/pull/1468) on [symfony/ux](https://github.com/symfony/ux) (1 year ago)
 - ![](./assets/pr-closed.svg) [[Autocomplete] Add conflict on doctrine/orm:^3.0](https://github.com/symfony/ux/pull/1459) on [symfony/ux](https://github.com/symfony/ux) (1 year ago)
-- ![](./assets/pr-closed.svg) [[ChartJs] Remove &lt;3.9 boundary and fix testsuite](https://github.com/symfony/ux/pull/1433) on [symfony/ux](https://github.com/symfony/ux) (1 year ago)
 
 
 
