@@ -8,6 +8,7 @@
 
 #### Recent pull requests
 
+- ![](./assets/pr-open.svg) [chore: use symfony/filesystem component](https://github.com/nunomaduro/pair/pull/8) on [nunomaduro/pair](https://github.com/nunomaduro/pair) (today)
 - ![](./assets/pr-closed.svg) [Render &#39;content_footer&#39; block with raw filter in layout](https://github.com/EasyCorp/EasyAdminBundle/pull/6913) on [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) (2 months ago)
 - ![](./assets/pr-closed.svg) [Render content_footer with raw filter](https://github.com/evertharmeling/EasyAdminBundle/pull/1) on [evertharmeling/EasyAdminBundle](https://github.com/evertharmeling/EasyAdminBundle) (2 months ago)
 - ![](./assets/pr-merged.svg) [Add support for brick/phonenumber:^0.7.0 and ^0.8.0](https://github.com/nepada/phone-number-doctrine/pull/135) on [nepada/phone-number-doctrine](https://github.com/nepada/phone-number-doctrine) (2 months ago)
@@ -17,7 +18,6 @@
 - ![](./assets/pr-open.svg) [Fixed typos in docs](https://github.com/creativetimofficial/material-tailwind/pull/834) on [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind) (8 months ago)
 - ![](./assets/pr-merged.svg) [Support Symfony 7](https://github.com/FriendsOfSymfony/FOSElasticaBundle/pull/1938) on [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle) (1 year ago)
 - ![](./assets/pr-merged.svg) [Minor typo in basics.md](https://github.com/makinacorpus/DbToolsBundle/pull/118) on [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) (1 year ago)
-- ![](./assets/pr-merged.svg) [[ChartJs] Remove &lt;3.9 boundary in devDependencies](https://github.com/symfony/ux/pull/1533) on [symfony/ux](https://github.com/symfony/ux) (1 year ago)
 
 
 
