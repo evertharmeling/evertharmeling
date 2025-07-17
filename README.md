@@ -8,9 +8,9 @@
 
 #### Recent pull requests
 
-- ![](./assets/pr-open.svg) [chore: use symfony/filesystem component](https://github.com/nunomaduro/pair/pull/8) on [nunomaduro/pair](https://github.com/nunomaduro/pair) (6 days ago)
-- ![](./assets/pr-closed.svg) [Render &#39;content_footer&#39; block with raw filter in layout](https://github.com/EasyCorp/EasyAdminBundle/pull/6913) on [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) (2 months ago)
-- ![](./assets/pr-closed.svg) [Render content_footer with raw filter](https://github.com/evertharmeling/EasyAdminBundle/pull/1) on [evertharmeling/EasyAdminBundle](https://github.com/evertharmeling/EasyAdminBundle) (2 months ago)
+- ![](./assets/pr-open.svg) [chore: use symfony/filesystem component](https://github.com/nunomaduro/pair/pull/8) on [nunomaduro/pair](https://github.com/nunomaduro/pair) (1 week ago)
+- ![](./assets/pr-closed.svg) [Render &#39;content_footer&#39; block with raw filter in layout](https://github.com/EasyCorp/EasyAdminBundle/pull/6913) on [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) (3 months ago)
+- ![](./assets/pr-closed.svg) [Render content_footer with raw filter](https://github.com/evertharmeling/EasyAdminBundle/pull/1) on [evertharmeling/EasyAdminBundle](https://github.com/evertharmeling/EasyAdminBundle) (3 months ago)
 - ![](./assets/pr-merged.svg) [Add support for brick/phonenumber:^0.7.0 and ^0.8.0](https://github.com/nepada/phone-number-doctrine/pull/135) on [nepada/phone-number-doctrine](https://github.com/nepada/phone-number-doctrine) (3 months ago)
 - ![](./assets/pr-merged.svg) [Update develop branch](https://github.com/evertharmeling/arduino-brouwkuyp-control/pull/3) on [evertharmeling/arduino-brouwkuyp-control](https://github.com/evertharmeling/arduino-brouwkuyp-control) (3 months ago)
 - ![](./assets/pr-merged.svg) [[Validator] Updated Dutch translation](https://github.com/symfony/symfony/pull/59518) on [symfony/symfony](https://github.com/symfony/symfony) (6 months ago)
