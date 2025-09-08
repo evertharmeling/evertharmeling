@@ -8,7 +8,9 @@
 
 #### Recent pull requests
 
-- ![](./assets/pr-open.svg) [Replaced php-http/message-factory with nyholm/psr7](https://github.com/bresam/ivory-google-map/pull/44) on [bresam/ivory-google-map](https://github.com/bresam/ivory-google-map) (3 days ago)
+- ![](./assets/pr-open.svg) [[WIP] Update to support ivory-google-map refactor regarding psr/http* packages](https://github.com/bresam/ivory-google-map-bundle/pull/33) on [bresam/ivory-google-map-bundle](https://github.com/bresam/ivory-google-map-bundle) (today)
+- ![](./assets/pr-open.svg) [Replaced php-http/message-factory with psr/http-factory and psr/http-client](https://github.com/bresam/ivory-google-map/pull/45) on [bresam/ivory-google-map](https://github.com/bresam/ivory-google-map) (today)
+- ![](./assets/pr-closed.svg) [Replaced php-http/message-factory with nyholm/psr7](https://github.com/bresam/ivory-google-map/pull/44) on [bresam/ivory-google-map](https://github.com/bresam/ivory-google-map) (3 days ago)
 - ![](./assets/pr-open.svg) [chore: use symfony/filesystem component](https://github.com/nunomaduro/pair/pull/8) on [nunomaduro/pair](https://github.com/nunomaduro/pair) (2 months ago)
 - ![](./assets/pr-closed.svg) [Render &#39;content_footer&#39; block with raw filter in layout](https://github.com/EasyCorp/EasyAdminBundle/pull/6913) on [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) (4 months ago)
 - ![](./assets/pr-closed.svg) [Render content_footer with raw filter](https://github.com/evertharmeling/EasyAdminBundle/pull/1) on [evertharmeling/EasyAdminBundle](https://github.com/evertharmeling/EasyAdminBundle) (4 months ago)
@@ -16,8 +18,6 @@
 - ![](./assets/pr-merged.svg) [Update develop branch](https://github.com/evertharmeling/arduino-brouwkuyp-control/pull/3) on [evertharmeling/arduino-brouwkuyp-control](https://github.com/evertharmeling/arduino-brouwkuyp-control) (5 months ago)
 - ![](./assets/pr-merged.svg) [[Validator] Updated Dutch translation](https://github.com/symfony/symfony/pull/59518) on [symfony/symfony](https://github.com/symfony/symfony) (7 months ago)
 - ![](./assets/pr-merged.svg) [Minor typo fix in AnalyzeCommand](https://github.com/twigstan/twigstan/pull/179) on [twigstan/twigstan](https://github.com/twigstan/twigstan) (9 months ago)
-- ![](./assets/pr-open.svg) [Fixed typos in docs](https://github.com/creativetimofficial/material-tailwind/pull/834) on [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind) (10 months ago)
-- ![](./assets/pr-merged.svg) [Support Symfony 7](https://github.com/FriendsOfSymfony/FOSElasticaBundle/pull/1938) on [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle) (1 year ago)
 
 
 
