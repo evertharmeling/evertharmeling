@@ -8,7 +8,7 @@
 
 #### Recent pull requests
 
-- ![](./assets/pr-open.svg) [[WIP] Update to support ivory-google-map refactor regarding psr/http* packages](https://github.com/bresam/ivory-google-map-bundle/pull/33) on [bresam/ivory-google-map-bundle](https://github.com/bresam/ivory-google-map-bundle) (today)
+- ![](./assets/pr-open.svg) [Update to support ivory-google-map refactor regarding psr/http* packages](https://github.com/bresam/ivory-google-map-bundle/pull/33) on [bresam/ivory-google-map-bundle](https://github.com/bresam/ivory-google-map-bundle) (today)
 - ![](./assets/pr-open.svg) [Replaced php-http/message-factory with psr/http-factory and psr/http-client](https://github.com/bresam/ivory-google-map/pull/45) on [bresam/ivory-google-map](https://github.com/bresam/ivory-google-map) (today)
 - ![](./assets/pr-closed.svg) [Replaced php-http/message-factory with nyholm/psr7](https://github.com/bresam/ivory-google-map/pull/44) on [bresam/ivory-google-map](https://github.com/bresam/ivory-google-map) (3 days ago)
 - ![](./assets/pr-open.svg) [chore: use symfony/filesystem component](https://github.com/nunomaduro/pair/pull/8) on [nunomaduro/pair](https://github.com/nunomaduro/pair) (2 months ago)
